@@ -1,0 +1,19 @@
+meta {
+  name: Login V1
+  type: http
+  seq: 1
+}
+
+post {
+  url: https://api.pocketcasts.com/user/login
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "email": "{{POCKET_CASTS_EMAIL}}",
+    "password": "{{POCKET_CASTS_PASSWORD}}",
+    "scope": "webplayer"
+  }
+}

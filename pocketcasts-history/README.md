@@ -9,6 +9,12 @@ Script to download Pocket Casts podcast history via the Web Player API.
 
 Install [pyenv](https://github.com/pyenv/pyenv) (if necessary).
 
+Generate the `.env` file and set the environment variables:
+
+```bash
+cp .env.example .env && cp .env.example Pocket\ Casts\ Web\ Player\ API/.env
+```
+
 ```bash
 pyenv install && pyenv versions
 ```
