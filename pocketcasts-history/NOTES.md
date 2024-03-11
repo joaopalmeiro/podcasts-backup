@@ -24,6 +24,12 @@
   - https://docs.usebruno.com/bru-language-samples.html#scripting: `bru.setVar("token", res.body.token);`
   - https://docs.usebruno.com/scripting/sync-requests.html
   - https://docs.usebruno.com/scripting/javascript-reference.html#collection-variables
+- Pydantic:
+  - https://docs.pydantic.dev/2.6/api/standard_library_types/#uuid
+  - https://docs.python.org/3.10/library/uuid.html
+  - https://docs.pydantic.dev/2.6/api/standard_library_types/#datetime-types
+  - https://docs.pydantic.dev/2.6/api/standard_library_types/#typingliteral
+  - https://docs.pydantic.dev/2.6/api/standard_library_types/#enum
 
 ## Commands
 

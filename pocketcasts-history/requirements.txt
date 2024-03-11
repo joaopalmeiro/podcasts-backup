@@ -1,3 +1,5 @@
-ruff==0.3.0
 environs==11.0.0
+gaveta==0.1.1
 niquests==3.5.3
+pydantic==2.6.3
+ruff==0.3.0
