@@ -17,3 +17,8 @@ body:json {
     "scope": "webplayer"
   }
 }
+
+script:post-response {
+  const data = res.getBody();
+  bru.setVar("token", data.token);
+}

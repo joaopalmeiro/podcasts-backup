@@ -1,0 +1,15 @@
+meta {
+  name: History
+  type: http
+  seq: 3
+}
+
+post {
+  url: https://api.pocketcasts.com/user/history
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{token}}
+}
