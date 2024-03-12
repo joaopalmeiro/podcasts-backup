@@ -30,8 +30,14 @@
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#datetime-types
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#typingliteral
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#enum
-- https://github.com/python/mypy/blob/master/CHANGELOG.md#mypy-19
-- https://mypy.readthedocs.io/en/stable/command_line.html#cmdoption-mypy-local-partial-types
+  - https://docs.pydantic.dev/latest/api/config/#pydantic.config.ConfigDict.extra
+- mypy:
+  - https://github.com/python/mypy/blob/master/CHANGELOG.md#mypy-19
+  - https://mypy.readthedocs.io/en/stable/command_line.html#cmdoption-mypy-local-partial-types
+- Ruff:
+  - https://github.com/astral-sh/ruff/issues/4014
+  - https://docs.astral.sh/ruff/linter/#error-suppression
+  - `N815`: https://docs.astral.sh/ruff/rules/mixed-case-variable-in-class-scope/
 
 ## Commands
 
@@ -52,4 +58,15 @@ uv pip sync --reinstall --refresh --strict requirements.txt
 ```python
 with Session(multiplexed=True) as s:
     pass
+```
+
+```python
+def get_history(token: str) -> History:
+    r = niquests.post(HISTORY_ENDPOINT, auth=token)
+    data = r.json()
+
+    from gaveta.json import write_json
+    write_json(data, Path("history.json"))
+
+    return History(**data)
 ```
