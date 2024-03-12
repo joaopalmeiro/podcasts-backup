@@ -30,6 +30,8 @@
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#datetime-types
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#typingliteral
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#enum
+- https://github.com/python/mypy/blob/master/CHANGELOG.md#mypy-19
+- https://mypy.readthedocs.io/en/stable/command_line.html#cmdoption-mypy-local-partial-types
 
 ## Commands
 
