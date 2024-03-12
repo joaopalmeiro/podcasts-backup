@@ -61,6 +61,20 @@ with Session(multiplexed=True) as s:
 ```
 
 ```python
+def get_token(email: str, password: str) -> str:
+    r = niquests.post(
+        LOGIN_ENDPOINT,
+        data={"email": email, "password": password, "scope": "webplayer"},
+    )
+    data = r.json()
+
+    from gaveta.json import write_json
+    write_json(data, Path("login.json"))
+
+    return Login(**data).accessToken
+```
+
+```python
 def get_history(token: str) -> History:
     r = niquests.post(HISTORY_ENDPOINT, auth=token)
     data = r.json()

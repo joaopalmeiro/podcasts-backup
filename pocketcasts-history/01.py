@@ -1,6 +1,7 @@
 from datetime import datetime
 from enum import IntEnum
 from pathlib import Path
+from typing import Literal
 from urllib.parse import urljoin
 from uuid import UUID
 
@@ -43,6 +44,13 @@ class History(BaseModel):
     episodes: list[Episode]
 
 
+class Login(BaseModel):
+    accessToken: str  # noqa: N815
+    tokenType: Literal["Bearer"]  # noqa: N815
+
+    model_config = ConfigDict(extra="ignore")
+
+
 def get_token(email: str, password: str) -> str:
     r = niquests.post(
         LOGIN_ENDPOINT,
@@ -50,7 +58,7 @@ def get_token(email: str, password: str) -> str:
     )
     data = r.json()
 
-    return data["accessToken"]
+    return Login(**data).accessToken
 
 
 def get_history(token: str) -> History:
