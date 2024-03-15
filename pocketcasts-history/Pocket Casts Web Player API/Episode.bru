@@ -1,0 +1,21 @@
+meta {
+  name: Episode
+  type: http
+  seq: 6
+}
+
+post {
+  url: https://api.pocketcasts.com/user/episode
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{token}}
+}
+
+body:json {
+  {
+    "uuid": "5aee9ac4-7c5b-495a-acc0-27e35bf25a02"
+  }
+}

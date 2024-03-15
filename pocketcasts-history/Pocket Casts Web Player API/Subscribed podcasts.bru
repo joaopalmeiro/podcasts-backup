@@ -1,0 +1,15 @@
+meta {
+  name: Subscribed podcasts
+  type: http
+  seq: 4
+}
+
+post {
+  url: https://api.pocketcasts.com/user/podcast/list
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{token}}
+}

@@ -1,0 +1,21 @@
+meta {
+  name: Episodes
+  type: http
+  seq: 5
+}
+
+post {
+  url: https://api.pocketcasts.com/user/podcast/episodes/bookmarks
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{token}}
+}
+
+body:json {
+  {
+    "uuid": "c0172780-38bc-0135-52fa-452518e2d253"
+  }
+}
