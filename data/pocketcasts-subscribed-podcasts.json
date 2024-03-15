@@ -1,0 +1,438 @@
+{
+  "podcasts": [
+    {
+      "uuid": "077db710-df59-0138-e7b8-0acc26574db2",
+      "title": "Podcast Cruzamento",
+      "author": "André Correia e Daniel Guedelha",
+      "url": "https://www.cruzamentopodcast.com/series/podcast-cruzamento/",
+      "dateAdded": "2022-12-17T09:44:08.391000Z"
+    },
+    {
+      "uuid": "0caa2960-6e37-0139-343a-0acc26574db2",
+      "title": "O Nosso Conceito é a Partilha",
+      "author": "ONossoConceitoéaPartilha",
+      "url": "https://podcasters.spotify.com/pod/show/onossoconceitoeapartilha",
+      "dateAdded": "2024-01-31T19:18:57.614000Z"
+    },
+    {
+      "uuid": "0d53a7a0-8041-0138-ee14-0acc26574db2",
+      "title": "CryptoCafe",
+      "author": "CryptoCafe",
+      "url": "https://www.cryptocafe.pt/",
+      "dateAdded": "2022-03-12T17:26:16.559000Z"
+    },
+    {
+      "uuid": "18c8f860-d3c7-0135-9e60-5bb073f92b78",
+      "title": "CoRecursive: Coding Stories",
+      "author": "Adam Gordon Bell - Software Developer",
+      "url": "http://corecursive.com/",
+      "dateAdded": "2024-02-06T14:24:27.672000Z"
+    },
+    {
+      "uuid": "1a29a570-529f-0134-ec21-0d50f522381b",
+      "title": "Jamstack Radio",
+      "author": "Heavybit",
+      "url": "https://www.heavybit.com/library/podcasts/jamstack-radio/",
+      "dateAdded": "2022-02-17T23:19:15.361000Z"
+    },
+    {
+      "uuid": "1f013630-7b2d-013b-f29d-0acc26574db2",
+      "title": "mamiyamigos",
+      "author": "Caleb & Jason",
+      "url": "https://podcasters.spotify.com/pod/show/caleb-knueven",
+      "dateAdded": "2024-02-06T21:19:07.535000Z"
+    },
+    {
+      "uuid": "26ec90d0-9877-012f-395d-525400c11844",
+      "title": "FLOSS Weekly (Audio)",
+      "author": "TWiT",
+      "url": "https://twit.tv/shows/floss-weekly",
+      "dateAdded": "2022-12-28T13:07:02.614000Z"
+    },
+    {
+      "uuid": "2cfd8eb0-58b1-012f-101d-525400c11844",
+      "title": "Data Stories",
+      "author": "Enrico Bertini and Moritz Stefaner",
+      "url": "https://datastori.es/",
+      "dateAdded": "2022-01-16T00:22:26.754000Z"
+    },
+    {
+      "uuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+      "title": "PODCAST DO ESTRELADO",
+      "author": "Vasco Estrelado",
+      "url": "http://vascoestrelado.libsyn.com/website",
+      "dateAdded": "2023-03-17T12:35:21.386000Z"
+    },
+    {
+      "uuid": "39d2a9e0-09eb-013b-e5fd-0acc26574db2",
+      "title": "Notas Fotográficas de Rui Caria",
+      "author": "Rui Caria",
+      "url": "http://ruicaria.com/",
+      "dateAdded": "2023-05-29T12:53:33.113000Z"
+    },
+    {
+      "uuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+      "title": "Data Hackers",
+      "author": "Data Hackers",
+      "url": "https://www.datahackers.com.br/",
+      "dateAdded": "2022-01-16T00:22:26.754000Z"
+    },
+    {
+      "uuid": "3a32c380-12c5-013c-f5e2-0acc26574db2",
+      "title": "Front-End Fire",
+      "author": "TJ VanToll, Paige Niedringhaus, Jack Herrington",
+      "url": "https://www.buzzsprout.com/2226499",
+      "dateAdded": "2024-02-19T18:05:39.014000Z"
+    },
+    {
+      "uuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+      "title": "Prova de Contacto",
+      "author": "Ruben Mália & João Paulo Wadhoomall",
+      "url": "https://linktr.ee/provadecontactopodcast",
+      "dateAdded": "2023-04-17T12:58:44.345000Z"
+    },
+    {
+      "uuid": "4e697020-7b27-013a-d7c2-0acc26574db2",
+      "title": "Admirável Futuro Novo",
+      "author": "Sofia Riço Calado",
+      "url": "https://admiravelfuturonovo.podbean.com/",
+      "dateAdded": "2022-03-01T22:51:28.784000Z"
+    },
+    {
+      "uuid": "532a5990-0c79-0135-ecbb-4114446340cb",
+      "title": "P24",
+      "author": "PÚBLICO",
+      "url": "https://www.publico.pt/p24-podcast",
+      "dateAdded": "2023-01-05T10:39:57.931000Z"
+    },
+    {
+      "uuid": "53bb5b70-da78-0137-1e34-0acc26574db2",
+      "title": "Software Freedom Podcast",
+      "author": "Free Software Foundation Europe (FSFE)",
+      "url": "https://fsfe.org/news/podcast",
+      "dateAdded": "2024-02-25T23:42:40Z"
+    },
+    {
+      "uuid": "541bf8a0-5340-0139-33af-0acc26574db2",
+      "title": "Desordem Mundial",
+      "author": "Alexandre Guerra, Cátia Moreira de Carvalho e Diogo Noivo/PÚBLICO",
+      "url": "http://www.publico.pt/",
+      "dateAdded": "2022-02-11T14:57:35.854000Z"
+    },
+    {
+      "uuid": "5da398e0-fed9-0139-d527-0acc26574db2",
+      "title": "Despolariza",
+      "author": "Tomás Magalhães",
+      "url": "https://www.despolariza.pt/",
+      "dateAdded": "2024-02-15T13:10:44.723000Z"
+    },
+    {
+      "uuid": "5e602a10-9401-0135-9d18-5bb073f92b78",
+      "title": "45 Graus",
+      "author": "José Maria Pimentel",
+      "url": "http://sites.libsyn.com/107540/site",
+      "dateAdded": "2023-03-02T18:55:55.205000Z"
+    },
+    {
+      "uuid": "61159910-80f5-0138-ee19-0acc26574db2",
+      "title": "Casa Trabalho Casa",
+      "author": "Ana Relvas & Rute Brito",
+      "url": "https://www.casatrabalhocasa.com/",
+      "dateAdded": "2024-01-21T22:41:07.856000Z"
+    },
+    {
+      "uuid": "64a62690-dcdd-0134-ebdd-4114446340cb",
+      "title": "JS Party: JavaScript, CSS, Web Development",
+      "author": "Changelog Media",
+      "url": "https://changelog.com/jsparty",
+      "dateAdded": "2022-01-20T08:52:13.313000Z"
+    },
+    {
+      "uuid": "6701bb40-834c-0133-2d64-6dc413d6d41d",
+      "title": "Conversas em Código",
+      "author": "Ricardo Mendes, Luís Ferreira, Hugo Peixoto",
+      "url": "https://conversasemcodigo.pt/",
+      "dateAdded": "2022-01-17T12:26:23.039000Z"
+    },
+    {
+      "uuid": "691c8fa0-2d1f-0139-32ed-0acc26574db2",
+      "title": "Dinheiro Vivo - Made in Tech - Podcast",
+      "author": "João Tomé",
+      "url": "https://www.dinheirovivo.pt/podcast/made-in-tech.html",
+      "dateAdded": "2022-02-13T20:45:16.788000Z"
+    },
+    {
+      "uuid": "6a10ce90-2ba3-013a-d617-0acc26574db2",
+      "title": "POD Pensar",
+      "author": "Deco Proteste",
+      "url": "https://soundcloud.com/pod-pensar",
+      "dateAdded": "2022-01-24T15:45:45.981000Z"
+    },
+    {
+      "uuid": "6d911b70-1c28-0134-a45d-13e6b3913b15",
+      "title": "A Beleza das Pequenas Coisas",
+      "author": "Expresso",
+      "url": "http://expresso.pt/podcasts/a-beleza-das-pequenas-coisas",
+      "dateAdded": "2022-02-20T19:06:05.768000Z"
+    },
+    {
+      "uuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+      "title": "TSF - Mundo Digital - Podcast",
+      "author": "Rui Tukayana, TSF",
+      "url": "https://www.tsf.pt/programa/mundo-digital.html",
+      "dateAdded": "2022-01-26T22:59:56.924000Z"
+    },
+    {
+      "uuid": "7f0b9b60-4f57-0138-9793-0acc26574db2",
+      "title": "Data Journalism Conversations",
+      "author": "Data Journalism .com",
+      "url": "https://datajournalism.com/",
+      "dateAdded": "2022-02-02T23:59:30.616000Z"
+    },
+    {
+      "uuid": "87ab0700-5cd0-0139-33df-0acc26574db2",
+      "title": "The Atlas Obscura Podcast",
+      "author": "Stitcher Studios & Atlas Obscura",
+      "url": "https://www.stitcher.com/",
+      "dateAdded": "2023-04-14T16:26:26.360000Z"
+    },
+    {
+      "uuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
+      "title": "PodRocket - A web development podcast from LogRocket",
+      "author": "LogRocket",
+      "url": "http://podrocket.logrocket.com/",
+      "dateAdded": "2023-01-27T13:14:39.477000Z"
+    },
+    {
+      "uuid": "8f9c49a0-919c-0139-744e-0acc26574db2",
+      "title": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "author": "Andrew Lisowski, Justin Bennett",
+      "url": "https://devtools.fm/",
+      "dateAdded": "2022-01-29T23:37:27.549000Z"
+    },
+    {
+      "uuid": "98a40bf0-7a18-0139-347c-0acc26574db2",
+      "title": "Fundação (FFMS) - [IN] Pertinente",
+      "author": "Fundação Francisco Manuel dos Santos",
+      "url": "https://www.ffms.pt/podcasts/fundacao-ffms-in-pertinente/5362/o-que-e-a-mao-invisivel",
+      "dateAdded": "2022-01-26T23:00:32.080000Z"
+    },
+    {
+      "uuid": "997f5770-ff87-0135-c263-7d73a919276a",
+      "title": "Data Viz Today",
+      "author": "Alli Torban",
+      "url": "https://dataviztoday.com/",
+      "dateAdded": "2022-01-16T00:22:26.754000Z"
+    },
+    {
+      "uuid": "9f971730-b74d-0135-9e60-5bb073f92b78",
+      "title": "storytelling with data podcast",
+      "author": "Cole Nussbaumer Knaflic",
+      "url": "http://www.storytellingwithdata.com/",
+      "dateAdded": "2022-02-27T21:45:57.996000Z"
+    },
+    {
+      "uuid": "aa85c840-b00a-0139-c1a5-0acc26574db2",
+      "title": "Ambientalista Imperfeita",
+      "author": "Antena3 - RTP",
+      "url": "https://www.rtp.pt/play/p8977/ambientalista-imperfeita",
+      "dateAdded": "2022-02-16T11:18:04.909000Z"
+    },
+    {
+      "uuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+      "title": "Split-Chicken",
+      "author": "Split-Chicken",
+      "url": "https://rubberchickengames.com/",
+      "dateAdded": "2023-06-30T21:23:43.392000Z"
+    },
+    {
+      "uuid": "adc8f550-aafd-013c-74fe-027201e7e97f",
+      "title": "Parecia Tão Boa Pessoa",
+      "author": "johninha",
+      "url": "https://podcasters.spotify.com/pod/show/johninha",
+      "dateAdded": "2024-02-11T11:22:08Z"
+    },
+    {
+      "uuid": "b0627330-1ea4-013c-f622-0acc26574db2",
+      "title": "Bad at CSS",
+      "author": "David East, Adam Argyle",
+      "url": "https://zencastr.com/Bad-at-CSS1",
+      "dateAdded": "2024-02-28T22:46:08Z"
+    },
+    {
+      "uuid": "b3523d70-b88a-0137-0dbb-0acc26574db2",
+      "title": "Aleixo Amigo",
+      "author": "Antena3 - RTP",
+      "url": "https://www.rtp.pt/play/p6177/aleixo-amigo",
+      "dateAdded": "2022-02-08T23:00:08.970000Z"
+    },
+    {
+      "uuid": "b3e294c0-0ef6-013c-f5c9-0acc26574db2",
+      "title": "Narrativa",
+      "author": "Narrativa",
+      "url": "https://www.anarrativa.com/",
+      "dateAdded": "2024-03-15T14:54:02.765000Z"
+    },
+    {
+      "uuid": "b6264df0-b4c5-0132-32ce-0b39892d38e0",
+      "title": "Talk Python To Me",
+      "author": "Michael Kennedy (@mkennedy)",
+      "url": "https://talkpython.fm/",
+      "dateAdded": "2022-01-20T15:25:21.616000Z"
+    },
+    {
+      "uuid": "b98216c0-7c5d-0134-9030-3327a14bcdba",
+      "title": "Escolha Livre",
+      "author": "André Paula",
+      "url": "https://linuxtech.pt/",
+      "dateAdded": "2022-01-20T15:25:21.616000Z"
+    },
+    {
+      "uuid": "bddfd0b0-18f8-013c-f603-0acc26574db2",
+      "title": "Mostly Technical",
+      "author": "Ian Landsman and Aaron Francis",
+      "url": "https://mostlytechnical.com/",
+      "dateAdded": "2024-03-06T22:35:18Z"
+    },
+    {
+      "uuid": "c0172780-38bc-0135-52fa-452518e2d253",
+      "title": "Podcast Ubuntu Portugal",
+      "author": "Diogo Constantino & Tiago Carrondo",
+      "url": "https://podcastubuntuportugal.org/",
+      "dateAdded": "2022-01-16T00:17:59.258000Z"
+    },
+    {
+      "uuid": "c20543c0-9891-013a-d857-0acc26574db2",
+      "title": "Supermegabit",
+      "author": "Daniel Costa",
+      "url": "https://podcasters.spotify.com/pod/show/supermegabit",
+      "dateAdded": "2023-12-23T12:00:33.761000Z"
+    },
+    {
+      "uuid": "c3e8c360-8b99-0137-f541-17da1cd0d495",
+      "title": "Tecnocracia",
+      "author": "Guilherme Felitti",
+      "url": "https://manualdousuario.net/series/tecnocracia/",
+      "dateAdded": "2024-03-12T22:43:27.545000Z"
+    },
+    {
+      "uuid": "cc555510-1e38-0135-52f8-452518e2d253",
+      "title": "Home Assistant Podcast",
+      "author": "HK Media",
+      "url": "https://redcircle.com/shows/home-assistant-podcast",
+      "dateAdded": "2024-03-02T22:03:46.304000Z"
+    },
+    {
+      "uuid": "cf763e10-1f94-0136-c266-7d73a919276a",
+      "title": "Voz dos Direitos Digitais",
+      "author": "Diogo Constantino",
+      "url": "http://direitosdigitais.libsyn.com/website",
+      "dateAdded": "2024-02-19T18:19:19.085000Z"
+    },
+    {
+      "uuid": "d04b4f00-7733-0130-0031-723c91aeae46",
+      "title": "Manual do Usuário",
+      "author": "Rodrigo Ghedin",
+      "url": "https://manualdousuario.net/series/manual-do-usuario/",
+      "dateAdded": "2022-12-16T23:04:37.332000Z"
+    },
+    {
+      "uuid": "d8fb5c80-1d1e-012f-f6d4-525400c11844",
+      "title": "ShopTalk",
+      "author": "Chris Coyier & Dave Rupert",
+      "url": "https://shoptalkshow.com/",
+      "dateAdded": "2024-02-25T16:55:57Z"
+    },
+    {
+      "uuid": "de29fd30-49ed-0133-c354-0d11918ab357",
+      "title": "Aleixo FM",
+      "author": "Antena3 - RTP",
+      "url": "https://www.rtp.pt/play/p510/aleixo-fm",
+      "dateAdded": "2022-01-21T00:04:27.009000Z"
+    },
+    {
+      "uuid": "df99c170-264f-0136-c266-7d73a919276a",
+      "title": "Perguntar Não Ofende",
+      "author": "Daniel Oliveira",
+      "url": "http://expresso.pt/podcasts/perguntar-nao-ofende",
+      "dateAdded": "2022-02-13T20:45:16.788000Z"
+    },
+    {
+      "uuid": "e612aea0-f44d-0139-d4ed-0acc26574db2",
+      "title": "Isto É Gozar Com Quem Trabalha",
+      "author": "SIC",
+      "url": "https://www.sic.pt/Programas/isto-e-gozar-com-quem-trabalha",
+      "dateAdded": "2024-02-22T21:46:23.072000Z"
+    },
+    {
+      "uuid": "e7f17c80-63a8-0134-787d-4ffec63d9550",
+      "title": "Aleixopédia",
+      "author": "Antena3 - RTP",
+      "url": "https://www.rtp.pt/play/p2817/aleixopedia",
+      "dateAdded": "2022-02-08T23:00:08.970000Z"
+    },
+    {
+      "uuid": "ea5f76e0-f755-0137-b590-0acc26574db2",
+      "title": "Do Zero",
+      "author": "Do Zero",
+      "url": "https://www.dozero.pt/",
+      "dateAdded": "2022-02-13T20:45:16.788000Z"
+    },
+    {
+      "uuid": "ec7dd090-2966-0138-9ff7-0acc26574db2",
+      "title": "1/0 - Um sobre Zero",
+      "author": "António Lopes",
+      "url": "https://umsobrezero.com/episodios/",
+      "dateAdded": "2022-01-16T10:32:31.964000Z"
+    },
+    {
+      "uuid": "ef215300-0914-0136-c264-7d73a919276a",
+      "title": "Views on Vue",
+      "author": "Steve Edwards, Luke Diebold",
+      "url": "https://redcircle.com/shows/views-on-vue",
+      "dateAdded": "2023-02-03T15:56:07.908000Z"
+    },
+    {
+      "uuid": "ef9bbf70-a695-0130-20e4-723c91aeae46",
+      "title": "The Laravel Podcast",
+      "author": "Taylor Otwell, Matt Stauffer",
+      "url": "https://laravelpodcast.com/",
+      "dateAdded": "2024-02-06T21:27:07.120000Z"
+    },
+    {
+      "uuid": "f03ded00-058c-0139-4197-0acc26574db2",
+      "title": "Podcast Conversas de Café",
+      "author": "Ricardo Dionisio",
+      "url": "https://www.conversasdecafe.com/",
+      "dateAdded": "2023-03-13T15:19:26.216000Z"
+    },
+    {
+      "uuid": "f5413aa0-606d-0136-4e65-69745d675bc7",
+      "title": "Practical AI: Machine Learning, Data Science",
+      "author": "Changelog Media",
+      "url": "https://changelog.com/practicalai",
+      "dateAdded": "2022-04-10T23:52:10.508000Z"
+    },
+    {
+      "uuid": "fa153af0-7809-0138-edea-0acc26574db2",
+      "title": "Isto Não É Um Jogo",
+      "author": "David Fialho, João Canelo e Rui Mendes",
+      "url": "https://podcasters.spotify.com/pod/show/istonaoeumjogo",
+      "dateAdded": "2023-12-23T12:00:45.039000Z"
+    },
+    {
+      "uuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+      "title": "Glitch Gamecast",
+      "author": "Glitch Gamecast",
+      "url": "https://linktr.ee/glitchgamecast",
+      "dateAdded": "2022-04-27T22:29:25.922000Z"
+    },
+    {
+      "uuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+      "title": "Syntax - Tasty Web Development Treats",
+      "author": "Wes Bos & Scott Tolinski - Full Stack JavaScript Web Developers",
+      "url": "https://syntax.fm/",
+      "dateAdded": "2022-01-16T00:17:59.258000Z"
+    }
+  ]
+}

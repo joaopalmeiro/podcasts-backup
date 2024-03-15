@@ -31,6 +31,7 @@
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#typingliteral
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#enum
   - https://docs.pydantic.dev/latest/api/config/#pydantic.config.ConfigDict.extra
+  - https://docs.pydantic.dev/latest/api/networks/#pydantic.networks.HttpUrl
 - mypy:
   - https://github.com/python/mypy/blob/master/CHANGELOG.md#mypy-19
   - https://mypy.readthedocs.io/en/stable/command_line.html#cmdoption-mypy-local-partial-types

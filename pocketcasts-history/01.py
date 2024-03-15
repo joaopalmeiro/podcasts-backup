@@ -1,6 +1,5 @@
 from datetime import datetime
 from enum import IntEnum
-from typing import Literal
 from uuid import UUID
 
 import niquests
@@ -12,8 +11,8 @@ from constants import (
     DATA_FOLDER,
     HISTORY_ENDPOINT,
     HISTORY_OUTPUT_PATH,
-    LOGIN_ENDPOINT,
 )
+from utils import get_token
 
 
 class PlayingStatus(IntEnum):
@@ -40,23 +39,6 @@ class Episode(BaseModel):
 class History(BaseModel):
     total: int
     episodes: list[Episode]
-
-
-class Login(BaseModel):
-    accessToken: str  # noqa: N815
-    tokenType: Literal["Bearer"]  # noqa: N815
-
-    model_config = ConfigDict(extra="ignore")
-
-
-def get_token(email: str, password: str) -> str:
-    r = niquests.post(
-        LOGIN_ENDPOINT,
-        data={"email": email, "password": password, "scope": "webplayer"},
-    )
-    data = r.json()
-
-    return Login(**data).accessToken
 
 
 def get_history(token: str) -> History:
