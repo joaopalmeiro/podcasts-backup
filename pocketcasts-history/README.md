@@ -64,5 +64,9 @@ python 01.py
 ```
 
 ```bash
+python 02.py
+```
+
+```bash
 deactivate
 ```

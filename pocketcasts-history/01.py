@@ -1,8 +1,6 @@
 from datetime import datetime
 from enum import IntEnum
-from pathlib import Path
 from typing import Literal
-from urllib.parse import urljoin
 from uuid import UUID
 
 import niquests
@@ -10,12 +8,12 @@ from environs import Env
 from gaveta.files import ensure_folder
 from pydantic import BaseModel, ConfigDict
 
-BASE_URL = "https://api.pocketcasts.com/"
-LOGIN_ENDPOINT = urljoin(BASE_URL, "/user/login_pocket_casts")
-HISTORY_ENDPOINT = urljoin(BASE_URL, "/user/history")
-
-DATA_FOLDER = Path("../data")
-OUTPUT_PATH = DATA_FOLDER / "pocketcasts-history.json"
+from constants import (
+    DATA_FOLDER,
+    HISTORY_ENDPOINT,
+    HISTORY_OUTPUT_PATH,
+    LOGIN_ENDPOINT,
+)
 
 
 class PlayingStatus(IntEnum):
@@ -77,6 +75,6 @@ if __name__ == "__main__":
     token = get_token(env("POCKET_CASTS_EMAIL"), env("POCKET_CASTS_PASSWORD"))
     history = get_history(token)
 
-    with OUTPUT_PATH.open(mode="w", encoding="utf-8") as f:
+    with HISTORY_OUTPUT_PATH.open(mode="w", encoding="utf-8") as f:
         f.write(history.model_dump_json(indent=2))
         f.write("\n")
