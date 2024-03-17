@@ -8,12 +8,15 @@
 - Niquests:
   - https://pypi.org/project/niquests/
   - https://blog.devgenius.io/10-reasons-you-should-quit-your-http-client-98fd4c94bef3
-  - https://niquests.readthedocs.io/en/latest/user/quickstart.html#multiplexed-connection
+  - https://niquests.readthedocs.io/en/latest/user/quickstart.html#multiplexed-connection:
+    - "The only thing you will ever have to do to get started is to specify `multiplexed=True` from within your `Session` constructor."
+    - "Any `Response`returned by get, post, put, etc… will be a lazy instance of `Response`."
   - https://niquests.readthedocs.io/en/latest/api.html#requests.Session
   - https://toolbelt.readthedocs.io/en/latest/sessions.html#baseurlsession
   - https://niquests.readthedocs.io/en/latest/user/quickstart.html#make-a-request
   - https://niquests.readthedocs.io/en/latest/user/quickstart.html#json-response-content
   - https://niquests.readthedocs.io/en/latest/user/authentication.html#passing-a-bearer-token
+  - https://niquests.readthedocs.io/en/latest/user/quickstart.html#speedups
 - Bruno:
   - https://github.com/usebruno/bruno
   - https://docs.usebruno.com/bru-language-tag-reference.html
