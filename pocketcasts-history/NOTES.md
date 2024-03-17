@@ -42,6 +42,10 @@
   - https://github.com/astral-sh/ruff/issues/4014
   - https://docs.astral.sh/ruff/linter/#error-suppression
   - `N815`: https://docs.astral.sh/ruff/rules/mixed-case-variable-in-class-scope/
+- https://github.com/Automattic/pocket-casts-android/blob/7.58/modules/services/servers/src/main/java/au/com/shiftyjelly/pocketcasts/servers/sync/SyncServer.kt
+- https://github.com/Automattic/pocket-casts-android/blob/7.58/modules/services/model/src/main/java/au/com/shiftyjelly/pocketcasts/models/to/HistorySyncRequest.kt
+- https://github.com/Automattic/pocket-casts-android/blob/7.58/modules/services/repositories/src/main/java/au/com/shiftyjelly/pocketcasts/repositories/sync/SyncHistoryTask.kt#L83
+- https://github.com/Automattic/pocket-casts-android/blob/7.58/modules/services/preferences/src/main/java/au/com/shiftyjelly/pocketcasts/preferences/Settings.kt#L72
 
 ## Commands
 
