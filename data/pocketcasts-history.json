@@ -1,1850 +1,2543 @@
 [
   {
     "uuid": "17dd1833-3437-44fa-91e4-b1947d038532",
+    "url": "https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/jamstack-radio/20210121-jamstack-radio-071.mp3",
     "published": "2021-02-01T10:00:00Z",
     "duration": 2156,
     "title": "Ep. #71, Open Source Firebase Alternative with Paul Copplestone of Supabase",
     "playingStatus": 3,
-    "podcastUuid": "1a29a570-529f-0134-ec21-0d50f522381b"
+    "podcastUuid": "1a29a570-529f-0134-ec21-0d50f522381b",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "90b524fa-5424-4ed6-b248-808b28b23334",
+    "url": "https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/jamstack-radio/20211209-jamstack-radio-095.mp3",
     "published": "2022-01-27T08:10:00Z",
     "duration": 1678,
     "title": "Ep. #95, Islands Architecture with Ben Holmes of Slinkity",
     "playingStatus": 3,
-    "podcastUuid": "1a29a570-529f-0134-ec21-0d50f522381b"
+    "podcastUuid": "1a29a570-529f-0134-ec21-0d50f522381b",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "933933fa-ebc9-4215-b51a-af08e6d0fc07",
+    "url": "https://anchor.fm/s/d9886f10/podcast/play/83390232/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369271298-44100-2-33bcc7cbf9092.m4a",
     "published": "2024-03-01T18:00:00Z",
     "duration": 1866,
     "title": "Kodachrome Raised from the Dead? | Ep 13 | Mamiyamigos",
     "playingStatus": 3,
-    "podcastUuid": "1f013630-7b2d-013b-f29d-0acc26574db2"
+    "podcastUuid": "1f013630-7b2d-013b-f29d-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 13
   },
   {
     "uuid": "1e3d5ce7-e8d0-4c29-927e-8a63b72a4704",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/POdcast_venda_de_fotos.mp3?dest-id=1536293",
     "published": "2022-03-01T22:02:44Z",
     "duration": 4961,
     "title": "26# Vender as tuas fotos",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "3c7a89ef-a7e3-4551-80d0-932d8cb051c2",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/HC.mp3?dest-id=1536293",
     "published": "2023-07-13T23:00:00Z",
     "duration": 4372,
     "title": "37# Henrique Casinhas",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "41d87b8d-ecc1-406a-9983-922ab1126d34",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/MIGUEL_CLARO_-_ASTRO_FOTOGRAFO_-__LIVE__-_PODCAST_DO_ESTRELADO.mp3?dest-id=1536293",
     "published": "2020-12-06T00:02:27Z",
     "duration": 5579,
     "title": "20# ASTROFOGRAFIA COM MIGUEL CLARO",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "8f7247b0-1ad4-4a0d-bce1-1ab1d51deb22",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/nuno.mp3?dest-id=1536293",
     "published": "2023-06-24T15:10:18Z",
     "duration": 4397,
     "title": "36# Nuno Ramos - Fotografia de eventos Corporate",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "95e4e3c7-39d6-478a-95af-3a7567004cae",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/podcast_ben_pinto.mp3?dest-id=1536293",
     "published": "2023-03-28T18:08:10Z",
     "duration": 3360,
     "title": "34# Fotografia de Viagem - Ben Pinto",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "b0beb42b-9221-4af5-b177-834995821e65",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/andre_botp.mp3?dest-id=1536293",
     "published": "2023-03-09T11:32:10Z",
     "duration": 4155,
     "title": "33# Concursos de Fotografia - André Boto",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "dcc413d1-3cb6-40f6-93b0-7a392b9b63df",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/2P8A9443.mp3?dest-id=1536293",
     "published": "2023-02-18T11:47:07Z",
     "duration": 3334,
     "title": "32# Fotografia Paisagem com Drone - Pedro Grão",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "ea83b436-ddb6-4548-82b4-f26ae43e84eb",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/POdcast_Luis_Lima.mp3?dest-id=1536293",
     "published": "2022-02-15T23:36:18Z",
     "duration": 3274,
     "title": "25# Street Photography com Luis Lima",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "ff40bad8-b6ae-4237-8afb-9c9845234d05",
+    "url": "https://traffic.libsyn.com/secure/vascoestrelado/38_anos_de_experiencia_em_fotografia_fazem_diferenca__Jeronimo_Heitor_Coelho_-_Podcast_do_Estrelado.mp3?dest-id=1536293",
     "published": "2021-05-01T23:07:36Z",
     "duration": 5536,
     "title": "22# Jerónimo Heitor Coelho - 38 anos de experiência de fotografia",
     "playingStatus": 3,
-    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2"
+    "podcastUuid": "374b9940-b959-0137-0dbc-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "1cd31c7b-80d9-4f1e-87ae-eadc2d4a1462",
+    "url": "https://anchor.fm/s/6d1ee34/podcast/play/63801338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-21%2F47e1b82a-d3ee-ea42-a135-38db23cf7461.mp3",
     "published": "2023-01-22T14:45:06Z",
     "duration": 3619,
     "title": "As Tendências para Dados e AI em 2023 - Episódio 62",
     "playingStatus": 3,
-    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db"
+    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+    "episodeSeason": 1,
+    "episodeNumber": 62
   },
   {
     "uuid": "3b50e61f-9221-40da-a244-59d238f0618c",
+    "url": "https://anchor.fm/s/6d1ee34/podcast/play/47161804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-4%2F14ef3cae-a3a1-a112-e3c6-f86a3ffdee8b.mp3",
     "published": "2022-02-04T12:37:50Z",
     "duration": 4382,
     "title": "Tendências para Dados e AI em 2022 - Data Hackers Podcast 51",
     "playingStatus": 3,
-    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db"
+    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+    "episodeSeason": 1,
+    "episodeNumber": 51
   },
   {
     "uuid": "3e0e02c8-3889-4619-9197-4f3fe673d28d",
+    "url": "https://anchor.fm/s/6d1ee34/podcast/play/49239264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-18%2F659548eb-a6cb-7d22-a908-e7efb1dd5dfd.mp3",
     "published": "2022-03-18T12:49:49Z",
     "duration": 3813,
     "title": "O que faz um Staff Engineer? - Staff+ Podcast 01",
     "playingStatus": 3,
-    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db"
+    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+    "episodeSeason": 1,
+    "episodeNumber": 54
   },
   {
     "uuid": "4824daeb-f067-46a7-9341-3e7e29ee92cc",
+    "url": "https://anchor.fm/s/6d1ee34/podcast/play/48893229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-11%2F15edd70b-439b-49e1-f628-372ea16065e4.mp3",
     "published": "2022-03-11T12:43:36Z",
     "duration": 3882,
     "title": "Salários, trabalho remoto, e senioridade: os resultados do State of Data Brazil - Data Hackers Podcast 53",
     "playingStatus": 3,
-    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db"
+    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+    "episodeSeason": 1,
+    "episodeNumber": 53
   },
   {
     "uuid": "ff2dbd23-266b-4ad3-af13-d0839f5bde83",
+    "url": "https://anchor.fm/s/6d1ee34/podcast/play/50299371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-8%2Fc4596d51-7bac-77d2-ca0d-66c366307782.mp3",
     "published": "2022-04-08T12:58:45Z",
     "duration": 2929,
     "title": "Como Big Data vai morrer -  Data Hackers Podcast 54",
     "playingStatus": 3,
-    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db"
+    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+    "episodeSeason": 1,
+    "episodeNumber": 55
   },
   {
     "uuid": "1d328007-3fd0-4890-be85-af7f61addaff",
+    "url": "https://www.buzzsprout.com/2226499/14572512-news-hono-v4-enters-the-meta-framework-arena-storybook-8-supports-rscs-and-apple-shuts-off-pwas-in-the-eu.mp3",
     "published": "2024-02-26T11:00:00Z",
     "duration": 2098,
     "title": "News: Hono v4 Enters the Meta Framework Arena, Storybook 8 Supports RSCs, and Apple Shuts Off PWAs in the EU",
     "playingStatus": 3,
-    "podcastUuid": "3a32c380-12c5-013c-f5e2-0acc26574db2"
+    "podcastUuid": "3a32c380-12c5-013c-f5e2-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 32
   },
   {
     "uuid": "4d376a1d-e985-4942-a129-98fea1f4bfba",
+    "url": "https://www.buzzsprout.com/2226499/14425891-interview-million-js-v3-debuts-with-aiden-bai-and-tobiloba-adedeji.mp3",
     "published": "2024-02-02T11:00:00Z",
     "duration": 1128,
     "title": "Interview: Million.js v3 Debuts with Aiden Bai and Tobiloba Adedeji",
     "playingStatus": 3,
-    "podcastUuid": "3a32c380-12c5-013c-f5e2-0acc26574db2"
+    "podcastUuid": "3a32c380-12c5-013c-f5e2-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 26
   },
   {
     "uuid": "8f27556c-c976-4b85-bcfd-c5d7e02415cf",
+    "url": "https://www.buzzsprout.com/2226499/14619451-news-npm-has-competition-parcel-adds-macros-and-browserstack-gets-sued.mp3",
     "published": "2024-03-04T11:00:00Z",
     "duration": 2066,
     "title": "News: npm Has Competition, Parcel Adds Macros, and BrowserStack Gets Sued",
     "playingStatus": 3,
-    "podcastUuid": "3a32c380-12c5-013c-f5e2-0acc26574db2"
+    "podcastUuid": "3a32c380-12c5-013c-f5e2-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 33
   },
   {
     "uuid": "304c7023-b831-4984-ae1a-bf199cdf94f3",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/67673799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-31%2F1841824d-9eb1-946f-75c8-4df33e36f695.mp3",
     "published": "2023-04-01T07:30:24Z",
     "duration": 4599,
     "title": "T05E08 - Convidado Gustavo Minas",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 5,
+    "episodeNumber": 8
   },
   {
     "uuid": "34eba676-829e-41f9-9c58-dc8d50ca1cbb",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/68622953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-14%2Ff666e572-36a5-bc23-b554-418b97d76620.mp3",
     "published": "2023-04-15T07:00:35Z",
     "duration": 5259,
     "title": "T05E09 - Convidado João Ferreira",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 5,
+    "episodeNumber": 9
   },
   {
     "uuid": "3f730af0-1d54-4e2e-a8ca-284f429efeab",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/73696955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-21%2F233070b2-4461-d72e-62f5-cb2c6e6cc462.mp3",
     "published": "2023-07-22T07:30:00Z",
     "duration": 5762,
     "title": "T05E13 - Convidada: Sónia Campos Ayres",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 5,
+    "episodeNumber": 13
   },
   {
     "uuid": "598e4b6a-5dfe-4abb-8136-abc522921ebe",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/64471711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-3%2Fd5e2aabe-a388-acf2-6b59-dde7bbbdaede.mp3",
     "published": "2023-02-04T08:30:49Z",
     "duration": 6321,
     "title": "T05E05 - DiscordTalks #3",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 5,
+    "episodeNumber": 5
   },
   {
     "uuid": "63685c6f-d3ff-48c5-a0c3-e6910cade234",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/43815764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-23%2Fed188e52-bf2e-12fe-1237-9a339ab58527.mp3",
     "published": "2021-11-24T00:00:00Z",
     "duration": 4601,
     "title": "T04E08 - Convidado Bernardo Conde",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 4,
+    "episodeNumber": 8
   },
   {
     "uuid": "7b5c5b4c-d99b-454c-93ba-efae8e4ca163",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/73096805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-6%2F76236d7c-ef56-9fca-bdd3-84d8fde8a478.mp3",
     "published": "2023-07-08T07:20:00Z",
     "duration": 3569,
     "title": "T05E12 - Convidado: Ivo Canelas",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 5,
+    "episodeNumber": 12
   },
   {
     "uuid": "9264cbb3-125a-4e1e-88f4-8701f8ba4ea9",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/65713056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2Faaf6caa5-73d3-56cf-86ac-97db88aff24b.mp3",
     "published": "2023-02-28T10:00:21Z",
     "duration": 4146,
     "title": "T05E06 - Convidado Diogo Beja",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 5,
+    "episodeNumber": 6
   },
   {
     "uuid": "a6e9e409-a02f-4c3c-8862-3757a4142c6e",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/66790772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-17%2F6c99a7df-1f5d-1dba-6fc9-5a21d5d010ce.mp3",
     "published": "2023-03-18T06:37:14Z",
     "duration": 6175,
     "title": "T05E07 - Convidado José Sarmento Matos",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 5,
+    "episodeNumber": 7
   },
   {
     "uuid": "a8e81ec2-0b6c-499c-a713-4ecf0398a284",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/50316426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-8%2Fa40a87c7-1c23-4228-3167-aee3df43a84f.mp3",
     "published": "2022-04-09T07:00:00Z",
     "duration": 7507,
     "title": "T04E16 - Convidado Nuno Lobito",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 4,
+    "episodeNumber": 16
   },
   {
     "uuid": "b7fe6cdc-8bf4-4dd5-99ae-b44204c48394",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/61951257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-9%2F7349f81c-3bf7-7e49-ec12-26bfa6ca1451.mp3",
     "published": "2022-12-10T09:00:40Z",
     "duration": 3135,
     "title": "S05E03 - Exodus Aveiro Fest 2022 - Resumo",
     "playingStatus": 3,
-    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495"
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 5,
+    "episodeNumber": 3
   },
   {
     "uuid": "57771e1a-7be0-4cc5-b982-3a062f36679f",
+    "url": "https://mcdn.podbean.com/mf/web/cymgkk/Episodio1final.mp3",
     "published": "2022-01-27T14:06:22Z",
     "duration": 1870,
     "title": "Episódio Um - Wiki Editoras LX",
     "playingStatus": 3,
-    "podcastUuid": "4e697020-7b27-013a-d7c2-0acc26574db2"
+    "podcastUuid": "4e697020-7b27-013a-d7c2-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 2
   },
   {
     "uuid": "afcc904d-f2db-4fcc-976f-b93f73d96874",
+    "url": "https://mcdn.podbean.com/mf/web/vvq4qj/Episo_dio_2_vfinalak2po.mp3",
     "published": "2022-02-22T19:47:10Z",
     "duration": 1617,
     "title": "Episódio Dois - Associação Batoto Yetu",
     "playingStatus": 3,
-    "podcastUuid": "4e697020-7b27-013a-d7c2-0acc26574db2"
+    "podcastUuid": "4e697020-7b27-013a-d7c2-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 3
   },
   {
     "uuid": "132f14b2-4c35-4614-859b-f177695295d4",
+    "url": "https://traffic.libsyn.com/secure/quarentaecincograus/Ricardo_Costa_episodio.mp3?dest-id=582963",
     "published": "2023-01-18T05:30:00Z",
     "duration": 6072,
     "title": "#137 Ricardo Costa - Como o jornalismo se adaptou à revolução digital — e o que ainda está por fazer",
     "playingStatus": 3,
-    "podcastUuid": "5e602a10-9401-0135-9d18-5bb073f92b78"
+    "podcastUuid": "5e602a10-9401-0135-9d18-5bb073f92b78",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "332fc925-a027-4fc9-902f-cd1bfceeec29",
+    "url": "https://www.buzzsprout.com/1076782/14619426-fixed-vs-growth-mindset-qual-a-tua-mentalidade-ep-110.mp3",
     "published": "2024-03-13T00:00:00Z",
     "duration": 560,
     "title": "Fixed vs. Growth Mindset: Qual a tua mentalidade? | Ep. 110",
     "playingStatus": 3,
-    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2"
+    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 110
   },
   {
     "uuid": "3d127306-0c63-4bce-9c94-49b38d2a878b",
+    "url": "https://www.buzzsprout.com/1076782/14349109-vale-a-pena-candidatar-me-se-nao-cumpro-os-requisitos-ep-107.mp3",
     "published": "2024-02-21T00:00:00Z",
     "duration": 774,
     "title": "Vale a pena candidatar-me se não cumpro os requisitos? | Ep. 107",
     "playingStatus": 3,
-    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2"
+    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 107
   },
   {
     "uuid": "4550c21f-9f2a-437e-9a63-93cecd71f4e6",
+    "url": "https://www.buzzsprout.com/1076782/13742083-managing-up-aprende-a-gerir-o-teu-chefe-ep-91.mp3",
     "published": "2023-11-01T00:00:00Z",
     "duration": 879,
     "title": "Managing Up: Aprende a Gerir o teu Chefe | Ep. 91",
     "playingStatus": 3,
-    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2"
+    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 91
   },
   {
     "uuid": "4bdba8bb-f4f2-48dd-8637-86c8e63e8d33",
+    "url": "https://www.buzzsprout.com/1076782/14619389-perfeccionismo-qualidade-ou-defeito-ep-109.mp3",
     "published": "2024-03-06T00:00:00Z",
     "duration": 667,
     "title": "Perfeccionismo: Qualidade ou defeito? | Ep. 109",
     "playingStatus": 3,
-    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2"
+    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 109
   },
   {
     "uuid": "5931cac7-bc1c-4834-8860-4247dd6b864e",
+    "url": "https://www.buzzsprout.com/1076782/14581453-2-dicas-para-gestores-de-equipas-eficazes-ep-108.mp3",
     "published": "2024-02-28T00:00:00Z",
     "duration": 718,
     "title": "2 dicas para gestores de equipas eficazes | Ep. 108",
     "playingStatus": 3,
-    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2"
+    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 108
   },
   {
     "uuid": "946244bf-f007-43b4-8f49-407a71fe0524",
+    "url": "https://www.buzzsprout.com/1076782/14079689-como-avaliar-uma-proposta-de-emprego-ep-97.mp3",
     "published": "2023-12-13T00:00:00Z",
     "duration": 879,
     "title": "Como avaliar uma proposta de emprego | Ep. 97",
     "playingStatus": 3,
-    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2"
+    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 97
   },
   {
     "uuid": "9672c18e-3381-4f76-86a5-9377277f5d15",
+    "url": "https://www.buzzsprout.com/1076782/14348599-como-negociar-uma-reducao-de-horario-ep-103.mp3",
     "published": "2024-01-24T00:00:00Z",
     "duration": 854,
     "title": "Como negociar uma redução de horário | Ep. 103",
     "playingStatus": 3,
-    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2"
+    "podcastUuid": "61159910-80f5-0138-ee19-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 103
   },
   {
     "uuid": "60e80335-939f-4cd8-a970-804335169d13",
+    "url": "https://op3.dev/e/https://cdn.changelog.com/uploads/jsparty/211/js-party-211.mp3",
     "published": "2022-02-04T17:30:00Z",
     "duration": 3314,
     "title": "A Solid option for building UIs",
     "playingStatus": 3,
-    "podcastUuid": "64a62690-dcdd-0134-ebdd-4114446340cb"
+    "podcastUuid": "64a62690-dcdd-0134-ebdd-4114446340cb",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "6d902d06-863c-4437-b643-d62dede1c560",
+    "url": "https://op3.dev/e/https://cdn.changelog.com/uploads/jsparty/214/js-party-214.mp3",
     "published": "2022-02-25T18:00:00Z",
     "duration": 3286,
     "title": "Vitest && Slidev",
     "playingStatus": 3,
-    "podcastUuid": "64a62690-dcdd-0134-ebdd-4114446340cb"
+    "podcastUuid": "64a62690-dcdd-0134-ebdd-4114446340cb",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "d0c541e0-5b5f-4ec4-b0d4-d9d22d9594ea",
+    "url": "https://op3.dev/e/https://cdn.changelog.com/uploads/jsparty/213/js-party-213.mp3",
     "published": "2022-02-18T18:15:00Z",
     "duration": 4091,
     "title": "Playing it close to the Vest",
     "playingStatus": 3,
-    "podcastUuid": "64a62690-dcdd-0134-ebdd-4114446340cb"
+    "podcastUuid": "64a62690-dcdd-0134-ebdd-4114446340cb",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "d121df41-ea55-4a39-a6aa-0671950979c8",
+    "url": "https://dts.podtrac.com/redirect.mp3/d3v6nxljmlgco0.cloudfront.net/ngx-audio/2021/11/made_in_tec_20211104220746/mp3/made_in_tec_20211104220746.mp3",
     "published": "2021-11-04T22:14:00Z",
     "duration": 5219,
     "title": "Como Marcelo Lebre está a abrir as fronteiras do trabalho com a Remote",
     "playingStatus": 3,
-    "podcastUuid": "691c8fa0-2d1f-0139-32ed-0acc26574db2"
+    "podcastUuid": "691c8fa0-2d1f-0139-32ed-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "04d5855e-091f-47de-b79b-0b966d62e511",
+    "url": "https://chrt.fm/track/55F7C1/http://feeds.soundcloud.com/stream/1200130795-pod-pensar-voto-eletronico-democracia.mp3",
     "published": "2022-01-20T16:46:56Z",
     "duration": 3594,
     "title": "Pode o voto eletrónico salvar a democracia?",
     "playingStatus": 3,
-    "podcastUuid": "6a10ce90-2ba3-013a-d617-0acc26574db2"
+    "podcastUuid": "6a10ce90-2ba3-013a-d617-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "0536972a-c4e8-4719-9090-b50446e348ea",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2022/12/28_dezembro_2022_mundo_digital_alargado_greenfever_a_recondicionar_de_portugal_para_o_mundo_rui_tukayana_20221228120715/mp3/28_dezembro_2022_mundo_digital_alargado_greenfever_a_recondicionar_de_portugal_para_o_mundo_rui_tukayana_20221228120715.mp3",
     "published": "2022-12-28T13:00:00Z",
     "duration": 778,
     "title": "GreenFever, a \"recondicionar\" de Portugal para o mundo",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "0f3ef2f4-a218-4fa8-a319-e82b148405b1",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2022/12/mdigital5_20221205025411/mp3/mdigital5_20221205025411.mp3",
     "published": "2022-12-05T07:45:00Z",
     "duration": 97,
     "title": "Melhores jogos e apps no iPhone e Androids",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "156cdf73-61c5-4db1-bca0-534064efb060",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/06/mdigitalalargado21_20230621171549/mp3/mdigitalalargado21_20230621171549.mp3",
     "published": "2023-06-21T19:15:00Z",
     "duration": 880,
     "title": "A LG mostrou o que está a preparar para os próximos tempos",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "3a25bf71-7730-4c37-82d9-1d1a0bc1155f",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/06/mdigital22_20230621204559/mp3/mdigital22_20230621204559.mp3",
     "published": "2023-06-22T06:45:00Z",
     "duration": 134,
     "title": "Os smartphones com melhor relação qualidade/preço deste mês",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "3c5245c2-480e-49f2-b3d3-8bd6546e4351",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/02/15_fevereiro_2023_mundo_digital_alargado_voice_interactive_20230214131730/mp3/15_fevereiro_2023_mundo_digital_alargado_voice_interactive_20230214131730.mp3",
     "published": "2023-02-15T13:00:00Z",
     "duration": 1132,
     "title": "VoiceInteraction.ai: de Portugal para o Mundo",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "43c1b965-f39b-451c-92d1-251f09f15da1",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/06/mdigital19_20230619024503/mp3/mdigital19_20230619024503.mp3",
     "published": "2023-06-19T06:45:00Z",
     "duration": 128,
     "title": "O primeiro videoprojetor com certificação Xbox",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "4c1d1b2b-533b-41ca-b05c-37f522f04fab",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/06/28_junho_2023_mundo_digital_insta360_go3_e_uma_action_cam_como_nenhuma_outra_rui_tukayana_20230627205216/mp3/28_junho_2023_mundo_digital_insta360_go3_e_uma_action_cam_como_nenhuma_outra_rui_tukayana_20230627205216.mp3",
     "published": "2023-06-28T06:45:00Z",
     "duration": 78,
     "title": "A Insta360 Go3 é uma \"action-cam\" como nenhuma outra",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "4e20f9d7-350b-4fc2-a35f-88d96c577eab",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/01/mdigital2_20230102015612/mp3/mdigital2_20230102015612.mp3",
     "published": "2023-01-02T07:45:00Z",
     "duration": 84,
     "title": "Xiaomi lança um aquário",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "4f6ca266-f181-43a8-95ff-57d83d53678e",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2022/01/mdigitalt_20220126003220/mp3/mdigitalt_20220126003220.mp3",
     "published": "2022-01-26T16:30:00Z",
     "duration": 598,
     "title": "A importância do software livre nas próximas eleições",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "57eddfaa-3b69-48ce-925c-eed15133918b",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/07/mdigital14_20230713212043/mp3/mdigital14_20230713212043.mp3",
     "published": "2023-07-14T06:45:00Z",
     "duration": 67,
     "title": "Sony apresenta nova A6700",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "5e57defd-1787-4b1f-ac94-575404b7d2e6",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/01/30_janeiro_2023_mundo_digital_ja_esta_disponivel_o_microsoft_365_basico_rui_tukayana_20230127105456/mp3/30_janeiro_2023_mundo_digital_ja_esta_disponivel_o_microsoft_365_basico_rui_tukayana_20230127105456.mp3",
     "published": "2023-01-30T07:45:00Z",
     "duration": 77,
     "title": "Já está disponível o Microsoft 365 Básico",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "7cc45523-4cb2-4414-8308-5e1269bbbf72",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/05/mdigital15_20230515030744/mp3/mdigital15_20230515030744.mp3",
     "published": "2023-05-15T06:45:00Z",
     "duration": 133,
     "title": "Canon PowerShot V10",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "8891e82a-8a0e-4a1c-8da3-da295d4d377f",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2022/12/27_dezembro_2022_mundo_digital_bloco_de_notas_do_windows_vai_ser_melhorado_rui_tukayana_20221226204340/mp3/27_dezembro_2022_mundo_digital_bloco_de_notas_do_windows_vai_ser_melhorado_rui_tukayana_20221226204340.mp3",
     "published": "2022-12-27T07:45:00Z",
     "duration": 68,
     "title": "Bloco de Notas do Windows vai ser melhorado",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "9a1e381a-7367-4523-94fe-2af5354d5b25",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/06/mdigital20_20230619204042/mp3/mdigital20_20230619204042.mp3",
     "published": "2023-06-20T06:45:00Z",
     "duration": 155,
     "title": "Os melhores jogos de 2023... até agora",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "9e1b5b2f-18eb-4894-8edb-8708b5c7a857",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/07/mdigital3_20230703020125/mp3/mdigital3_20230703020125.mp3",
     "published": "2023-07-03T06:45:00Z",
     "duration": 82,
     "title": "Asus volta a apostar em smartphones compactos",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "afc7eb24-8a77-4c54-95d5-bd0ae71dbc82",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/05/mdigital16_20230515184928/mp3/mdigital16_20230515184928.mp3",
     "published": "2023-05-16T06:45:00Z",
     "duration": 128,
     "title": "Uma enorme queda na venda de smartphones",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "b2e7057b-563f-4688-b01a-51a4f0c47e9c",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2022/12/22_dezembro_2022_mundo_digital_aumenta_a_lista_e_jogos_disponiveis_no_netflix_rui_tukayana_20221221202239/mp3/22_dezembro_2022_mundo_digital_aumenta_a_lista_e_jogos_disponiveis_no_netflix_rui_tukayana_20221221202239.mp3",
     "published": "2022-12-22T07:45:00Z",
     "duration": 88,
     "title": "Aumenta a lista de jogos disponíveis no Netflix",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "b435cf48-1440-41e3-a163-69441044ff95",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2022/12/30_dezembro_2022_mundo_digital_samsung_lanca_novo_frigorifico_com_ecra_de_32_polegadas_rui_tukayana_20221229204600/mp3/30_dezembro_2022_mundo_digital_samsung_lanca_novo_frigorifico_com_ecra_de_32_polegadas_rui_tukayana_20221229204600.mp3",
     "published": "2022-12-30T07:45:00Z",
     "duration": 63,
     "title": "Samsung lança novo frigorífico com ecrã de 32 polegadas",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "b62caa2e-8229-4639-89e5-364deb2bc826",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2022/03/md_alargad_20220321192656/mp3/md_alargad_20220321192656.mp3",
     "published": "2022-03-23T13:00:00Z",
     "duration": 782,
     "title": "NTT Data Portugal",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "c35d5f08-a0ee-4a05-8e6d-8f3a3cd10861",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/04/ndigital5_20230404224739/mp3/ndigital5_20230404224739.mp3",
     "published": "2023-04-05T06:45:00Z",
     "duration": 139,
     "title": "Kobo Elipse 2E: Para quem gosta de ler e quer poupar o ambiente",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "c413e100-3821-4f35-b1c2-cb86b2f9ce17",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/01/10_janeiro_2023_mundo_digital_os_melhores_equipamentos_tecnologicos_saidos_da_ces_parte_i_rui_tukayana_20230109201741/mp3/10_janeiro_2023_mundo_digital_os_melhores_equipamentos_tecnologicos_saidos_da_ces_parte_i_rui_tukayana_20230109201741.mp3",
     "published": "2023-01-10T07:45:00Z",
     "duration": 96,
     "title": "Os melhores equipamentos tecnológicos saídos da CES (Parte I)",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "cca2b38e-a53c-45de-8113-1c1875aad5af",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/05/mdigital2_20230529203724/mp3/mdigital2_20230529203724.mp3",
     "published": "2023-06-02T06:45:00Z",
     "duration": 160,
     "title": "Apple vai lançar um visor de Realidade Aumentada?",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "df13a667-f460-45e0-9929-93e6f66e84ca",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/06/mdigital13_20230612223618/mp3/mdigital13_20230612223618.mp3",
     "published": "2023-06-13T06:45:00Z",
     "duration": 76,
     "title": "Xiaomi 13 Ultra já está a venda em Portugal",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "f01561c5-63c1-43aa-b570-a298a2be9b9a",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/02/mdigital17_20230216225536/mp3/mdigital17_20230216225536.mp3",
     "published": "2023-02-17T07:45:00Z",
     "duration": 87,
     "title": "Computadores Apple já podem correr o Windows 11",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "f0a9147b-8057-4cd1-815d-e9e51bb1b37b",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/05/mdigital1_20230529203616/mp3/mdigital1_20230529203616.mp3",
     "published": "2023-06-01T06:45:00Z",
     "duration": 164,
     "title": "Vem aí um novo robô aspirador Dyson",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "f4ed2e51-cf3a-4511-b20e-9a655fbcd528",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2022/12/23_dezembro_2022_mundo_digital_os_smartphones_com_melhor_relacao_qualidade_preco_em_dezembro_rui_tukayana_20221222195720/mp3/23_dezembro_2022_mundo_digital_os_smartphones_com_melhor_relacao_qualidade_preco_em_dezembro_rui_tukayana_20221222195720.mp3",
     "published": "2022-12-23T07:45:00Z",
     "duration": 59,
     "title": "Os smartphones com melhor relação qualidade preço em Dezembro",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "fdb11bdc-2b38-4410-8a98-ff275830a5ae",
+    "url": "https://dts.podtrac.com/redirect.mp3/d2al3n45gr0h51.cloudfront.net/ngx-audio/2023/06/mdigital15_20230614233421/mp3/mdigital15_20230614233421.mp3",
     "published": "2023-06-15T06:45:00Z",
     "duration": 103,
     "title": "Google traz novas funcionalidades para o Maps",
     "playingStatus": 3,
-    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c"
+    "podcastUuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "b06d2a1c-65d2-472b-99ab-1bd0b122a245",
+    "url": "https://feeds.soundcloud.com/stream/1208276746-datajournalism-episode-43-conversation-with-mollie-pettit-data-visualization-society.mp3",
     "published": "2022-02-02T08:53:40Z",
     "duration": 2982,
     "title": "Episode 43: Conversation with Mollie Pettit (Data Visualization Society)",
     "playingStatus": 3,
-    "podcastUuid": "7f0b9b60-4f57-0138-9793-0acc26574db2"
+    "podcastUuid": "7f0b9b60-4f57-0138-9793-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "20fe888c-4200-48c5-b61d-3eb47a2d9b92",
+    "url": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/adfed545-fd15-4725-b384-5ed932636f0c.mp3",
     "published": "2024-02-22T13:00:00Z",
     "duration": 1968,
     "title": "StyleX with Naman Goel",
     "playingStatus": 3,
-    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2"
+    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 0
   },
   {
     "uuid": "d424278d-b03d-489a-89d1-1b3bb5211d6c",
+    "url": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/729c9864-fa9e-412b-9983-782c1642c5cf.mp3",
     "published": "2023-05-24T12:00:00Z",
     "duration": 2278,
     "title": "Qwik 1.0 and Builder.io with Steve Sewell",
     "playingStatus": 3,
-    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2"
+    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
+    "episodeSeason": 3,
+    "episodeNumber": 0
   },
   {
     "uuid": "d5b3afe4-b981-41fd-8f45-26a39c5d4cc4",
+    "url": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/4ed10fe1-c9e2-4f62-81d0-26ba5036f7c6.mp3",
     "published": "2024-01-31T13:00:00Z",
     "duration": 2250,
     "title": "React frustrations, web components, and hot takes",
     "playingStatus": 3,
-    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2"
+    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 0
   },
   {
     "uuid": "3b20abb1-62d8-4feb-b53a-71dd3aa6b44a",
+    "url": "https://anchor.fm/s/dd6922b4/podcast/play/67260381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-25%2F320153414-44100-1-b55c256b7b624a12.mp3",
     "published": "2021-11-05T06:00:00Z",
     "duration": 4585,
     "title": "Pedro Duarte - Modulz, Radix, Stitches",
     "playingStatus": 3,
-    "podcastUuid": "8f9c49a0-919c-0139-744e-0acc26574db2"
+    "podcastUuid": "8f9c49a0-919c-0139-744e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "79df73cd-9583-4943-ad44-8cce3e995b31",
+    "url": "https://anchor.fm/s/dd6922b4/podcast/play/67260339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-25%2F320153369-44100-1-69c057f7ee3a2fb6.mp3",
     "published": "2021-05-28T15:00:00Z",
     "duration": 3155,
     "title": "Danny Banks and Kelly Harrop - style-dictionary",
     "playingStatus": 3,
-    "podcastUuid": "8f9c49a0-919c-0139-744e-0acc26574db2"
+    "podcastUuid": "8f9c49a0-919c-0139-744e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "a423aae8-a9da-436d-9ffc-5a3458c0a767",
+    "url": "https://anchor.fm/s/dd6922b4/podcast/play/67260379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-25%2F320153427-44100-1-7952af3bca30f09a.mp3",
     "published": "2022-02-18T06:00:00Z",
     "duration": 3309,
     "title": "Zach Lloyd, Michelle Lim -- Warp.dev",
     "playingStatus": 3,
-    "podcastUuid": "8f9c49a0-919c-0139-744e-0acc26574db2"
+    "podcastUuid": "8f9c49a0-919c-0139-744e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "1424ea9c-2b2f-40d0-bab2-d2a8ff7f1bac",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/81044970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-9%2F1521e734-4383-5a85-53d6-38d0e952638b.mp3",
     "published": "2024-01-09T22:22:54Z",
     "duration": 10770,
     "title": "Split-Chicken S6E13 - Até sempre Telmo | GOTY 2023",
     "playingStatus": 3,
-    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf"
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 6,
+    "episodeNumber": 13
   },
   {
     "uuid": "2c88480e-df4a-40b2-8f37-be17650065e5",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/80974819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-8%2F362638921-44100-2-9140d68c0da5c.m4a",
     "published": "2024-01-08T16:07:11Z",
     "duration": 372,
     "title": "O Albergue dos Silêncios #25",
     "playingStatus": 3,
-    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf"
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 1,
+    "episodeNumber": 25
   },
   {
     "uuid": "504a2e3a-7c22-434a-bc67-5ca8a47ccf10",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/81673588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-23%2Fbac310d8-2eed-577d-77d3-935553945ec8.mp3",
     "published": "2024-01-23T16:56:01Z",
     "duration": 10273,
     "title": "Split-Chicken S6E15 - Palworld o novo jogo da moda | Mais antecipados de 2024",
     "playingStatus": 3,
-    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf"
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 6,
+    "episodeNumber": 15
   },
   {
     "uuid": "9da0080e-b4f0-418b-8372-e707e9897ca6",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/79886226/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-11%2Fae4729d1-f70c-d0de-6359-7736a39eebfe.mp3",
     "published": "2023-12-11T21:53:03Z",
     "duration": 389,
     "title": "O Abergue dos Silêncios #24",
     "playingStatus": 3,
-    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf"
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 1,
+    "episodeNumber": 24
   },
   {
     "uuid": "aa15958f-d140-4cf7-a5ee-c013e64ceb1b",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/81991573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-30%2F7cd49d9d-606d-dbd9-91eb-24ca2ddc8bb3.mp3",
     "published": "2024-01-30T15:01:48Z",
     "duration": 8032,
     "title": "Split-Chicken S6E16 - Despedimentos Xbox/Blizzard é abandono do retalho pela Microsoft?",
     "playingStatus": 3,
-    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf"
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 6,
+    "episodeNumber": 16
   },
   {
     "uuid": "c7595f68-f95e-4f30-8477-b4ccb4a1a726",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/81349562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-16%2F9464b6f8-fadd-dd24-2c1f-ae8a992aba90.mp3",
     "published": "2024-01-16T15:18:48Z",
     "duration": 11554,
     "title": "Split-Chicken S6E14 - O que significa o \"Mickey é de todos?\" | Ubisoft+ | Tetris Clássico levou tareia de miúdo",
     "playingStatus": 3,
-    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf"
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 6,
+    "episodeNumber": 14
   },
   {
     "uuid": "f967a454-edbb-46a7-a8b0-74c6f2fb875c",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/79917657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-12%2F33f630d7-4c7a-c2ef-7ba4-30f5a86bc6e1.mp3",
     "published": "2023-12-12T15:29:14Z",
     "duration": 9738,
     "title": "Split-Chicken S6E12 - The Game Awards em polémica | Feliz Natal!",
     "playingStatus": 3,
-    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf"
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "6a8eba08-ff0d-4157-a674-54e688098ef0",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2212/PGM2200404204701_430988-2212271841.mp3",
     "published": "2022-12-30T09:10:00Z",
     "duration": 295,
     "title": "Conselhos de fim d'ano",
     "playingStatus": 3,
-    "podcastUuid": "b3523d70-b88a-0137-0dbb-0acc26574db2"
+    "podcastUuid": "b3523d70-b88a-0137-0dbb-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "a328a066-a4d4-4425-b6a5-3a2c972f8eb3",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2301/PGM2300403200101_431874-2301041349.mp3",
     "published": "2023-01-06T09:10:00Z",
     "duration": 324,
     "title": "Promessas de Ano-Novo",
     "playingStatus": 3,
-    "podcastUuid": "b3523d70-b88a-0137-0dbb-0acc26574db2"
+    "podcastUuid": "b3523d70-b88a-0137-0dbb-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "ef4f6cbb-ee8d-4df9-a2ce-fabe1b74fd9a",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2301/PGM2300403200201_432570-2301101248.mp3",
     "published": "2023-01-13T09:10:00Z",
     "duration": 299,
     "title": "Problemas de Médicos",
     "playingStatus": 3,
-    "podcastUuid": "b3523d70-b88a-0137-0dbb-0acc26574db2"
+    "podcastUuid": "b3523d70-b88a-0137-0dbb-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "407fe012-b5dc-4889-8a4f-50005baaa754",
+    "url": "https://anchor.fm/s/de9b268c/podcast/play/68210782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-10%2F6a0d5f10-e426-0788-a79c-a6d7711bed64.mp3",
     "published": "2023-04-10T08:15:12Z",
     "duration": 1742,
     "title": "#01 Mário Cruz – Os planos para o futuro e o que está para lá do acto de fotografar",
     "playingStatus": 3,
-    "podcastUuid": "b3e294c0-0ef6-013c-f5c9-0acc26574db2"
+    "podcastUuid": "b3e294c0-0ef6-013c-f5c9-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 1
   },
   {
     "uuid": "210a715e-257a-4732-863e-602e7ee6f82b",
+    "url": "https://talkpython.fm/episodes/download/453/uv-the-next-evolution-in-python-packages.mp3",
     "published": "2024-03-13T08:00:00Z",
     "duration": 4461,
     "title": "uv - The Next Evolution in Python Packages?",
     "playingStatus": 3,
-    "podcastUuid": "b6264df0-b4c5-0132-32ce-0b39892d38e0"
+    "podcastUuid": "b6264df0-b4c5-0132-32ce-0b39892d38e0",
+    "episodeSeason": 0,
+    "episodeNumber": 453
   },
   {
     "uuid": "f9abd6b7-a9e9-4f11-a3d8-43ef571a3ce5",
+    "url": "https://talkpython.fm/episodes/download/449/building-uis-in-python-with-fastui.mp3",
     "published": "2024-02-13T08:00:00Z",
     "duration": 3985,
     "title": "Building UIs in Python with FastUI",
     "playingStatus": 3,
-    "podcastUuid": "b6264df0-b4c5-0132-32ce-0b39892d38e0"
+    "podcastUuid": "b6264df0-b4c5-0132-32ce-0b39892d38e0",
+    "episodeSeason": 0,
+    "episodeNumber": 449
   },
   {
     "uuid": "37891bab-0fea-4db0-880f-8ec59eb15193",
+    "url": "https://traffic.libsyn.com/secure/linuxtech/88.mp3?dest-id=763865",
     "published": "2023-03-03T13:19:00Z",
     "duration": 1493,
     "title": "#88 - \"O ótimo é o inimigo do bom\"",
     "playingStatus": 3,
-    "podcastUuid": "b98216c0-7c5d-0134-9030-3327a14bcdba"
+    "podcastUuid": "b98216c0-7c5d-0134-9030-3327a14bcdba",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "3ef224b5-9528-4a60-b189-66ba82ccba28",
+    "url": "https://traffic.libsyn.com/secure/linuxtech/87-220.mp3?dest-id=763865",
     "published": "2023-01-22T17:50:00Z",
     "duration": 347,
     "title": "#87 - De volta das cinzas",
     "playingStatus": 3,
-    "podcastUuid": "b98216c0-7c5d-0134-9030-3327a14bcdba"
+    "podcastUuid": "b98216c0-7c5d-0134-9030-3327a14bcdba",
+    "episodeSeason": 0,
+    "episodeNumber": 87
   },
   {
     "uuid": "01a390d5-88f0-48e9-9617-f60c3cb4b464",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e226/e226.mp3",
     "published": "2022-12-22T00:00:00Z",
     "duration": 3407,
     "title": "Drupal 10, com Ricardo Amaro",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 226
   },
   {
     "uuid": "02405cea-9ca6-404b-b173-9953c45a310e",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e249/e249.mp3",
     "published": "2023-06-01T00:00:00Z",
     "duration": 3377,
     "title": "Salame Yellow",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 249
   },
   {
     "uuid": "150cbfe4-622f-480b-8003-4359b112f451",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e285/e285.mp3",
     "published": "2024-02-08T00:00:00Z",
     "duration": 3616,
     "title": "Bruxelas nas Couves",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 285
   },
   {
     "uuid": "15a0aec1-aa38-4a59-a2e0-59a3abaffc20",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e236/e236.mp3",
     "published": "2023-03-02T00:00:00Z",
     "duration": 3791,
     "title": "Profissionais do Drama",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 236
   },
   {
     "uuid": "176f0c7d-ff9c-41cf-b954-b11677820234",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e230/e230.mp3",
     "published": "2023-01-19T00:00:00Z",
     "duration": 3378,
     "title": "Tu tens um evento!",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 230
   },
   {
     "uuid": "18e4b34d-fb12-4fe7-a396-78f3c22f4dda",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e224/e224.mp3",
     "published": "2022-12-08T00:00:00Z",
     "duration": 3376,
     "title": "Esculpir o Miolo",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 224
   },
   {
     "uuid": "1c9d7d2b-afec-4586-8852-c44b0bffb123",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e287/e287.mp3",
     "published": "2024-02-22T00:00:00Z",
     "duration": 3413,
     "title": "O Filho Pródigo Torna a Casa",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 287
   },
   {
     "uuid": "2175eb1c-684b-42ec-9ae3-656a47009fd9",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e241/e241.mp3",
     "published": "2023-04-06T00:00:00Z",
     "duration": 3361,
     "title": "Ovas de Lagosta",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 241
   },
   {
     "uuid": "2a597085-9097-4782-8ffe-9524b7ce0930",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e229/e229.mp3",
     "published": "2023-01-12T00:00:00Z",
     "duration": 3837,
     "title": "Actualidades múltiplas",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 229
   },
   {
     "uuid": "2c8a8687-4102-4a5a-b70d-a5fb9e5b5ad7",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e228/e228.mp3",
     "published": "2023-01-05T00:00:00Z",
     "duration": 3268,
     "title": "Balanço de 2022",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 228
   },
   {
     "uuid": "328f5ec9-2868-4756-87fa-6b662f706643",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e283/e283.mp3",
     "published": "2024-01-25T00:00:00Z",
     "duration": 3395,
     "title": "Dia da Protecção de Dados e Privacidade",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 283
   },
   {
     "uuid": "32957b4b-ae50-4ce3-94d2-46f57af05441",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e221/e221.mp3",
     "published": "2022-11-17T00:00:00Z",
     "duration": 3502,
     "title": "Ubuntu Summit 2022, o Rescaldo",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 221
   },
   {
     "uuid": "4d04213c-98dd-4128-b05c-bfbab11703fb",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e280/e280.mp3",
     "published": "2024-01-04T00:00:00Z",
     "duration": 3668,
     "title": "Os Magos Mal Pagos",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 280
   },
   {
     "uuid": "4e9a9842-752c-4cc4-bd46-bad1fbd4cdb8",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e288/e288.mp3",
     "published": "2024-02-29T00:00:00Z",
     "duration": 3647,
     "title": "Furries e 125 anilhas de cobre",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 288
   },
   {
     "uuid": "4f8bf959-e21a-4955-96a7-8bd76076f8df",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e227/e227.mp3",
     "published": "2022-12-29T00:00:00Z",
     "duration": 4020,
     "title": "Previsões para 2023, com David Negreira",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 227
   },
   {
     "uuid": "593422f7-3ea2-4e7f-a0a9-0d4bd5e71b04",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e206/e206.mp3",
     "published": "2022-09-22T00:00:00Z",
     "duration": 3628,
     "title": "Bruno Miguel",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 206
   },
   {
     "uuid": "5aee9ac4-7c5b-495a-acc0-27e35bf25a02",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e290/e290.mp3",
     "published": "2024-03-14T00:00:00Z",
     "duration": 3618,
     "title": "Esparguete Partido com Ananás, com Giovanni Manghi",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 290
   },
   {
     "uuid": "5bd76395-9b40-4a10-8aa4-4d7f76849b55",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e238/e238.mp3",
     "published": "2023-03-16T00:00:00Z",
     "duration": 3474,
     "title": "Chapéus há muitos",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 238
   },
   {
     "uuid": "617709e3-baf2-4e38-a0ea-6cde1ea9fa9a",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e250/e250.mp3",
     "published": "2023-06-08T00:00:00Z",
     "duration": 3381,
     "title": "Cups Lock",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 250
   },
   {
     "uuid": "6be7b68a-54d7-4ea6-9af5-21a9c4b54cff",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e219/e219.mp3",
     "published": "2022-11-03T00:00:00Z",
     "duration": 3591,
     "title": "A eMule da Comprativa",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 219
   },
   {
     "uuid": "716c5cc0-0290-4710-ab86-741708fa4fc1",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e242/e242.mp3",
     "published": "2023-04-13T00:00:00Z",
     "duration": 3252,
     "title": "Dialectros Anarcas",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 242
   },
   {
     "uuid": "8310635c-76cc-4a85-bb5f-e3a2dfdd18e6",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e223/e223.mp3",
     "published": "2022-12-01T00:00:00Z",
     "duration": 3621,
     "title": "Bifurcação",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 223
   },
   {
     "uuid": "83926791-4c5e-423c-8d95-e6324a83aa61",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e212/e212.mp3",
     "published": "2022-09-08T00:00:00Z",
     "duration": 3654,
     "title": "Joana Simões",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 212
   },
   {
     "uuid": "89651dee-9ead-4d40-be3f-0a2a12dfbdfd",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e231/e231.mp3",
     "published": "2023-01-26T00:00:00Z",
     "duration": 3502,
     "title": "Agenda Cheia!",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 231
   },
   {
     "uuid": "8f2dc1ee-6821-4c4d-9749-0d9e1bc01de1",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e279/e279.mp3",
     "published": "2023-12-28T00:00:00Z",
     "duration": 3285,
     "title": "Vaticínios Sem Patrocínios",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 279
   },
   {
     "uuid": "9ad69b63-5d9e-46f5-a28a-b98576a438be",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e232/e232.mp3",
     "published": "2023-02-02T00:00:00Z",
     "duration": 3320,
     "title": "Null modem",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 232
   },
   {
     "uuid": "9c41d9c2-1985-4d71-928f-9478ee0b6390",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e237/e237.mp3",
     "published": "2023-03-09T00:00:00Z",
     "duration": 3525,
     "title": "Olhó Godot Fresquinho",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 237
   },
   {
     "uuid": "a62c2a51-ff70-44dd-9df7-55fb15c80205",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e217/e217.mp3",
     "published": "2022-10-20T00:00:00Z",
     "duration": 3579,
     "title": "Drupal, com Ricardo Amaro",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 217
   },
   {
     "uuid": "a98018fe-26cc-4b0f-be4f-8c398547a16c",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e239/e239.mp3",
     "published": "2023-03-23T00:00:00Z",
     "duration": 3409,
     "title": "Pombo Trovejante",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 239
   },
   {
     "uuid": "baf109b8-647f-4b8c-a849-a2827c510e97",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e222/e222.mp3",
     "published": "2022-11-24T00:00:00Z",
     "duration": 3670,
     "title": "Jardim das Borboletas",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 222
   },
   {
     "uuid": "bcd84a81-0d82-47f7-8f5a-655aab3ce45a",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e233/e233.mp3",
     "published": "2023-02-09T00:00:00Z",
     "duration": 3553,
     "title": "FOSDEM 2023",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 233
   },
   {
     "uuid": "be6e4331-c495-43f9-aa2e-49fad28bb4ef",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e278/e278.mp3",
     "published": "2023-12-21T00:00:00Z",
     "duration": 3680,
     "title": "Por Quem os Sinos Dobram",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 278
   },
   {
     "uuid": "c09ba5f8-8c18-4994-80ae-4e502a3ab8b0",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e243/e243.mp3",
     "published": "2023-04-20T00:00:00Z",
     "duration": 3593,
     "title": "Lagostazilla Beta",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 243
   },
   {
     "uuid": "cff35814-0169-47e0-935e-42f5fba15a40",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e225/e225.mp3",
     "published": "2022-12-15T00:00:00Z",
     "duration": 3399,
     "title": "Autopinheiro",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 225
   },
   {
     "uuid": "dcf22f3a-f131-4b6e-adc9-bb1d8e7b79b1",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e289/e289.mp3",
     "published": "2024-03-07T00:00:00Z",
     "duration": 3900,
     "title": "Uma Profusão de Abas em Fogo",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 289
   },
   {
     "uuid": "de788a18-00f5-4e55-a747-f00784905684",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e235/e235.mp3",
     "published": "2023-02-23T00:00:00Z",
     "duration": 3442,
     "title": "MiniDebConf Portugal 2023",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 235
   },
   {
     "uuid": "e64cb31b-cf7c-4d71-b3fd-9e0e4fdad8ed",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e220/e220.mp3",
     "published": "2022-11-10T00:00:00Z",
     "duration": 3686,
     "title": "Ubuntu Summit 2022",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 220
   },
   {
     "uuid": "e8f985cf-d780-422f-858c-cc76ae168e3f",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e286/e286.mp3",
     "published": "2024-02-15T00:00:00Z",
     "duration": 4175,
     "title": "O Código a Quem o Compila",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 286
   },
   {
     "uuid": "eb01effe-ebf9-4dce-a755-f0a6a4392aeb",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e234/e234.mp3",
     "published": "2023-02-16T00:00:00Z",
     "duration": 3469,
     "title": "Cooperativa de azeiteiros",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 234
   },
   {
     "uuid": "ec22e597-0b88-4d3e-9822-1e8ee8f7445e",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e240/e240.mp3",
     "published": "2023-03-30T00:00:00Z",
     "duration": 3510,
     "title": "WikiCon Portugal 2023, com André Barbosa",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 240
   },
   {
     "uuid": "ec3f9158-f507-4284-840d-a8ffdfaccef7",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e284/e284.mp3",
     "published": "2024-02-01T00:00:00Z",
     "duration": 3513,
     "title": "Portageiro, Quem És Tu?",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 284
   },
   {
     "uuid": "eec161ad-fc84-44c4-ad9b-a111abcf8f58",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e218/e218.mp3",
     "published": "2022-10-27T00:00:00Z",
     "duration": 3468,
     "title": "Habemus Centro!",
     "playingStatus": 3,
-    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253"
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 218
   },
   {
     "uuid": "10acfbe9-e5f5-49a9-bbae-2c6e2f34cce8",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/78670093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-15%2Fa218e6eb-2fbe-93d4-c162-6a31581bff3f.mp3",
     "published": "2023-11-30T09:00:00Z",
     "duration": 6419,
     "title": "Spider-Man 2 é especial (Aníbal Gonçalves)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 8
   },
   {
     "uuid": "21bfb06c-b4bb-4918-b98c-6a5f9972bb98",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/79985683/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-13%2Fe2401805-12e4-f107-7792-2d574509b8bf.mp3",
     "published": "2023-12-14T11:39:49Z",
     "duration": 5820,
     "title": "Jogos do Ano 2023 (1ª Parte)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 0
   },
   {
     "uuid": "52ba7e76-7dda-4c05-bf2b-198f96de4bca",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/78671469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-15%2F58cd4687-8469-4df0-d7bb-1d5fc8c198fa.mp3",
     "published": "2023-12-07T09:00:00Z",
     "duration": 4277,
     "title": "Super Mario Bros. Wonder (Miguel Patinha)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 9
   },
   {
     "uuid": "6c48f3f8-41bb-4e8e-b84c-4e54d8ba68bf",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/77217149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-14%2F601cdb08-6a71-ecde-7611-05f971264cc5.mp3",
     "published": "2023-11-23T09:30:00Z",
     "duration": 4617,
     "title": "Físico vs Digital (Soficious)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 7
   },
   {
     "uuid": "703268fc-14c9-48f8-8488-4a44db042763",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/80253643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-20%2F65811337-54a1-f446-e08a-48a5fa4f8b8c.mp3",
     "published": "2023-12-20T11:30:00Z",
     "duration": 7143,
     "title": "Jogos do Ano 2023 (2ª Parte)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 0
   },
   {
     "uuid": "be408fb4-76ca-4211-895b-73c4932ce410",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/65806535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2Ff79008f9-5b2d-4902-0634-e6b6e8c03e46.mp3",
     "published": "2023-03-09T10:00:46Z",
     "duration": 3887,
     "title": "Fazer jogos, com Mafalda Duarte",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 3,
+    "episodeNumber": 1
   },
   {
     "uuid": "c3800b06-cb3e-4a51-b082-2bd1edab82df",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/66361657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F96b8abd2-0b46-e3b9-1cfa-0c856b7bc869.mp3",
     "published": "2023-05-11T09:00:47Z",
     "duration": 5014,
     "title": "Stray e Vampire Survivors, com Soficious",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 3,
+    "episodeNumber": 10
   },
   {
     "uuid": "e440621d-a1f9-470d-85d8-e658c3d71278",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/78673932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-15%2Fe7cf2960-4af3-6004-e229-ffa8dad9f695.mp3",
     "published": "2024-01-02T14:52:09Z",
     "duration": 4928,
     "title": "Hades e os melhores indies (Rui Humberto)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 10
   },
   {
     "uuid": "efa09e51-8f93-492d-8817-a095e49ea79f",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/77066340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-11%2F355c85c0-a857-1467-19ba-0b8d0a1b82e5.mp3",
     "published": "2023-10-19T08:30:00Z",
     "duration": 7044,
     "title": "Futuro da PS5, Xbox e Switch (Glitch Gamecast)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 2
   },
   {
     "uuid": "f03c3cc0-abb5-4a3c-bc25-ae13e881aa7f",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/78672516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-15%2Feff1267f-0d5e-afb0-a4c9-ff89c4d0142c.mp3",
     "published": "2023-12-21T09:00:00Z",
     "duration": 4250,
     "title": "Attack on Titan mudou tudo (David Fialho) (Bónus)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 0
   },
   {
     "uuid": "f046ff9d-512a-49fb-aa6c-18a466338985",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/77067201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-11%2F5f533fcb-c733-7fbe-30df-9b09780159c8.mp3",
     "published": "2023-10-26T08:30:00Z",
     "duration": 4275,
     "title": "Sara vs Gaming (Sara Lima)",
     "playingStatus": 3,
-    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2"
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 3
   },
   {
     "uuid": "483725ac-c826-4e94-bd90-d13f895e02b5",
+    "url": "https://traffic.libsyn.com/secure/direitosdigitais/VDD5.mp3?dest-id=657383",
     "published": "2024-03-04T21:08:00Z",
     "duration": 10231,
     "title": "Ep 05 - Eleições Legislativas 2024",
     "playingStatus": 3,
-    "podcastUuid": "cf763e10-1f94-0136-c266-7d73a919276a"
+    "podcastUuid": "cf763e10-1f94-0136-c266-7d73a919276a",
+    "episodeSeason": 1,
+    "episodeNumber": 5
   },
   {
     "uuid": "25751cf2-feb3-4a85-8aac-f98027a9525a",
+    "url": "https://dts.podtrac.com/redirect.mp3/manualdousuario.net/podcast-download/40949/s8e06.mp3",
     "published": "2024-03-01T09:58:12Z",
     "duration": 2750,
     "title": "JavaScript e o futuro da web, com Felipe Moura e Jaydson Gomes",
     "playingStatus": 3,
-    "podcastUuid": "d04b4f00-7733-0130-0031-723c91aeae46"
+    "podcastUuid": "d04b4f00-7733-0130-0031-723c91aeae46",
+    "episodeSeason": 8,
+    "episodeNumber": 6
   },
   {
     "uuid": "5fd8d9fb-421c-4653-b13b-296779e66fd8",
+    "url": "https://dts.podtrac.com/redirect.mp3/manualdousuario.net/podcast-download/40614/s8e04.mp3",
     "published": "2024-02-16T09:58:10Z",
     "duration": 1149,
     "title": "O drama da Mozilla e a ponte do Bluesky para o Mastodon",
     "playingStatus": 3,
-    "podcastUuid": "d04b4f00-7733-0130-0031-723c91aeae46"
+    "podcastUuid": "d04b4f00-7733-0130-0031-723c91aeae46",
+    "episodeSeason": 8,
+    "episodeNumber": 4
   },
   {
     "uuid": "ec68d356-993e-433d-9eed-1d3f84e4b48c",
+    "url": "https://shoptalkshow.com/podcast-download/7433/604.mp3?nocache",
     "published": "2024-02-26T09:43:06Z",
     "duration": 3403,
     "title": "604: VS Code Plugins, Git as a Radical Statement, Tailwind & Arc Drama",
     "playingStatus": 3,
-    "podcastUuid": "d8fb5c80-1d1e-012f-f6d4-525400c11844"
+    "podcastUuid": "d8fb5c80-1d1e-012f-f6d4-525400c11844",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "69167c01-5023-4a67-9818-182065c12503",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2212/PGM2200404304701_430987-2212271838.mp3",
     "published": "2022-12-28T09:10:00Z",
     "duration": 276,
     "title": "Personalidades do Ano (2022)",
     "playingStatus": 3,
-    "podcastUuid": "de29fd30-49ed-0133-c354-0d11918ab357"
+    "podcastUuid": "de29fd30-49ed-0133-c354-0d11918ab357",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "867847d0-75c0-40c6-be43-51c6beef603e",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2301/PGM2300403300201_432569-2301101248.mp3",
     "published": "2023-01-11T09:10:00Z",
     "duration": 302,
     "title": "Cheias do Porto",
     "playingStatus": 3,
-    "podcastUuid": "de29fd30-49ed-0133-c354-0d11918ab357"
+    "podcastUuid": "de29fd30-49ed-0133-c354-0d11918ab357",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "b42d6261-e704-4264-8f09-52a4263b8b30",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2301/PGM2300403300101_431769-2301031954.mp3",
     "published": "2023-01-04T09:10:00Z",
     "duration": 333,
     "title": "Previsões para 2023",
     "playingStatus": 3,
-    "podcastUuid": "de29fd30-49ed-0133-c354-0d11918ab357"
+    "podcastUuid": "de29fd30-49ed-0133-c354-0d11918ab357",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "13baeb38-e0be-4448-b6dd-fc138309c5c3",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/aedaaff4-4259-4f29-9e28-adcf0103ac6a/10380214-737d-41e6-a556-ae1801714abf/audio.mp3?utm_source=Podcast&in_playlist=b9ad4462-e46a-4162-9cc4-adcf0103ac7c",
     "published": "2022-01-10T05:00:00Z",
     "duration": 6569,
     "title": "Joana Gonçalves de Sá: Porque tantos deixaram de confiar na ciência? O que pode fazer o Big Data por nós?",
     "playingStatus": 3,
-    "podcastUuid": "df99c170-264f-0136-c266-7d73a919276a"
+    "podcastUuid": "df99c170-264f-0136-c266-7d73a919276a",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "ad1979a1-76ad-4a1c-a1c7-ae44d445a89d",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/de7dcae9-8f2f-4f0e-8f0e-ad9e00e05421/aa8ab46d-45bf-4e9b-b9fd-b11d01742b7c/audio.mp3?utm_source=Podcast&in_playlist=a1d39605-c175-436c-8fc2-ad9e00e3c54b",
     "published": "2024-02-21T22:55:12Z",
     "duration": 2286,
     "title": "Ana Gomes: “Na AD estão bem encaminhados para vencer André Ventura; não têm o apoio do PS como eu não tive”",
     "playingStatus": 3,
-    "podcastUuid": "e612aea0-f44d-0139-d4ed-0acc26574db2"
+    "podcastUuid": "e612aea0-f44d-0139-d4ed-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "0ddfaee5-01cf-4a0d-853f-ec0fceb550ff",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2301/PGM2300403400201_432005-2301051143.mp3",
     "published": "2023-01-09T09:10:00Z",
     "duration": 331,
     "title": "Globos de Ouro",
     "playingStatus": 3,
-    "podcastUuid": "e7f17c80-63a8-0134-787d-4ffec63d9550"
+    "podcastUuid": "e7f17c80-63a8-0134-787d-4ffec63d9550",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "668a958d-ee92-4c70-8169-acf839433d69",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2301/PGM2300403400101_431583-2301021528.mp3",
     "published": "2023-01-02T09:10:00Z",
     "duration": 331,
     "title": "A Roda da Sorte",
     "playingStatus": 3,
-    "podcastUuid": "e7f17c80-63a8-0134-787d-4ffec63d9550"
+    "podcastUuid": "e7f17c80-63a8-0134-787d-4ffec63d9550",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "c097f15c-fe5a-4cf4-8d3d-dca947862ff2",
+    "url": "http://podcasts.rtp.pt/nas2.share/wavrss/at3/2212/PGM2200404404701_430187-2212201409.mp3",
     "published": "2022-12-26T09:10:00Z",
     "duration": 303,
     "title": "The Office",
     "playingStatus": 3,
-    "podcastUuid": "e7f17c80-63a8-0134-787d-4ffec63d9550"
+    "podcastUuid": "e7f17c80-63a8-0134-787d-4ffec63d9550",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "036cb9f2-cd41-4a80-aabc-757045aedcc3",
+    "url": "https://umsobrezero.com/2022/02/21/episodio-71/um-sobre-zero-episodio-71-dssg-pt.mp3",
     "published": "2022-02-21T00:00:00Z",
     "duration": 2092,
     "title": "Data Science for Social Good Portugal",
     "playingStatus": 3,
-    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2"
+    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 71
   },
   {
     "uuid": "1e762b7c-523a-493c-b39b-f6cec87c362f",
+    "url": "https://umsobrezero.com/2021/09/27/episodio-64/um-sobre-zero-episodio-64-open-source-intelligence.mp3",
     "published": "2021-09-27T00:00:00Z",
     "duration": 3186,
     "title": "Open Source Intelligence",
     "playingStatus": 3,
-    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2"
+    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 64
   },
   {
     "uuid": "5625322e-f6ef-4595-9715-974b55f99543",
+    "url": "https://umsobrezero.com/2022/03/07/episodio-72/um-sobre-zero-episodio-72-ciberseguranca-lino-santos.mp3",
     "published": "2022-03-07T00:00:00Z",
     "duration": 2556,
     "title": "Cibersegurança",
     "playingStatus": 3,
-    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2"
+    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 72
   },
   {
     "uuid": "762f0d6f-9cd2-4f67-ae06-40ee2d5195c9",
+    "url": "https://umsobrezero.com/2021/04/19/episodio-56/um-sobre-zero-episodio-56-mafalda-farelo.mp3",
     "published": "2021-04-19T00:00:00Z",
     "duration": 1686,
     "title": "Mafalda Farelo - The Lab Notebook",
     "playingStatus": 3,
-    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2"
+    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 56
   },
   {
     "uuid": "aa494d53-27ba-48cf-8cc7-eb1ccbc34236",
+    "url": "https://umsobrezero.com/2022/03/28/episodio-73/um-sobre-zero-episodio-73-comunicacao-ciencia.mp3",
     "published": "2022-03-28T00:00:00Z",
     "duration": 2691,
     "title": "Comunicação de Ciência",
     "playingStatus": 3,
-    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2"
+    "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 73
   },
   {
     "uuid": "02c8e492-2fd5-414c-80e4-95d401c494b9",
+    "url": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/audio4.redcircle.com/episodes/421fe37f-6d3c-43d9-af60-68628c4f57b3/stream.mp3",
     "published": "2022-10-18T10:00:00Z",
     "duration": 4354,
     "title": "Laravel and Vue with Taylor Otwell - VUE 199",
     "playingStatus": 3,
-    "podcastUuid": "ef215300-0914-0136-c264-7d73a919276a"
+    "podcastUuid": "ef215300-0914-0136-c264-7d73a919276a",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "16d5486f-4310-49b4-9df9-0d7e7d9181dd",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/64198737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317400046-44100-2-eba1c8d9cb384.mp3",
     "published": "2023-01-30T11:45:54Z",
     "duration": 3457,
     "title": "Ep 116 | Por vezes levamos anos até descobrirmos o que queremos fazer com João Rosa",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 116
   },
   {
     "uuid": "190ba24e-b6fe-484d-b4cf-c51527092c07",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/71471332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F333000678-44100-2-fc44646e365f7.mp3",
     "published": "2023-06-05T10:45:37Z",
     "duration": 3448,
     "title": "Ep 132 | O Poder da Abordagem com Bruno Costa",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 132
   },
   {
     "uuid": "1a99e553-ac37-43ac-8fdd-3a6478ce8bae",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/61354603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317407305-44100-2-325c5b4752b14.mp3",
     "published": "2022-11-28T22:38:21Z",
     "duration": 5424,
     "title": "Ep 110 | Resumo de 2022, o Presente e o Futuro com Ruben Costa",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 110
   },
   {
     "uuid": "3e82d806-48de-406d-b323-1672a7660880",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/63227965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317402867-44100-2-288d90815fa96.mp3",
     "published": "2023-01-09T11:13:39Z",
     "duration": 2671,
     "title": "Ep 113 | Quem és tu? com Adriana Urbano",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 113
   },
   {
     "uuid": "45c78f3e-75f2-44d3-9965-b2ee9f62848e",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/64965170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317399050-44100-2-c702cab183cda.mp3",
     "published": "2023-02-13T12:04:55Z",
     "duration": 3679,
     "title": "Ep 118 | Oportunidades e desafios para quem começa na fotografia com Rita Gazzo",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 118
   },
   {
     "uuid": "47fc801d-ab51-40bf-a9a8-71c567f8fb9d",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/53083704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-6%2Fc6f7eec2-1d4f-e9f2-72c2-c50db7352304.mp3",
     "published": "2022-06-06T08:43:56Z",
     "duration": 2760,
     "title": "Ep 94 | Arrisca e mostra o que vales com Mariana Silva",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 94
   },
   {
     "uuid": "5433ee40-b671-47da-b726-c7fad55c3b9b",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/66939529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-20%2F319170711-44100-2-f8c8fa5cc2bfa.mp3",
     "published": "2023-03-20T14:23:28Z",
     "duration": 2931,
     "title": "Ep 123 | Temos de criar a nossa própria linguagem com The Framers",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 123
   },
   {
     "uuid": "5492c2af-d126-4df1-87ef-4af70504ba86",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/72721479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-28%2F337164948-44100-2-fb0aec6868cf.mp3",
     "published": "2023-07-10T10:30:00Z",
     "duration": 3059,
     "title": "Ep 135 | Alcançar o equilíbrio com João Seagull",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 135
   },
   {
     "uuid": "650ecd50-99a8-483e-8fe2-df4d2984b4a2",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/72326845/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-19%2F335812381-44100-2-a81872755a11e.mp3",
     "published": "2023-06-19T19:58:41Z",
     "duration": 3811,
     "title": "Ep 134 | Fotografia de Espetáculo com Sara Hawk",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 134
   },
   {
     "uuid": "65989464-2456-4b72-8bd6-a083466a560f",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/57106281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-5%2F41f6e59a-34c9-7303-d7e2-db1727dff3a7.mp3",
     "published": "2022-09-05T09:43:32Z",
     "duration": 3431,
     "title": "Ep 103 | Comunidade que nos CAPTA com Rute Ângelo",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 103
   },
   {
     "uuid": "70623be8-7b41-4351-ac1e-d3e7d3fd1dfa",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/71069346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-31%2F332587322-44100-2-ea5c67451bf14.mp3",
     "published": "2023-05-29T08:00:00Z",
     "duration": 2156,
     "title": "Ep 131 | PLOTU é Fotografia",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 131
   },
   {
     "uuid": "7774f8af-8753-444c-b6dc-a45fed3896ca",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/65335912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317396501-44100-2-1ec0724b30654.mp3",
     "published": "2023-02-20T11:45:04Z",
     "duration": 3375,
     "title": "Ep 119 | Fotografia de rua com Gil Ribeiro",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 119
   },
   {
     "uuid": "8b9bf8ed-a809-41ed-9aa2-e7c91d7818a7",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/70716041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-20%2F330600114-44100-2-a9b1938930567.mp3",
     "published": "2023-05-22T10:45:58Z",
     "duration": 3238,
     "title": "Ep 130 | Salada Russa com Ruben Costa",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 130
   },
   {
     "uuid": "a0bfe01a-b8d9-4b1e-8c68-cd2601dca3c6",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/65696790/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317397790-44100-2-e4c5dd5699ceb.mp3",
     "published": "2023-02-27T15:51:04Z",
     "duration": 4711,
     "title": "Ep 120 | A importância da organização com Ruben Costa",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 120
   },
   {
     "uuid": "a92f5889-7a02-4a70-804a-d19a0495b767",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/57437816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-12%2F4ecac7d0-0b6e-0022-d092-22bfea71e6b2.mp3",
     "published": "2022-09-12T11:28:39Z",
     "duration": 486,
     "title": "Ep 104 | Como escolher uma câmara",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 104
   },
   {
     "uuid": "a959d96d-42b7-4c32-b306-4ccd683a4230",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/60972391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-21%2F3cb9a97d-0d94-6d22-6451-64f7f8e53c51.mp3",
     "published": "2022-11-21T13:38:23Z",
     "duration": 2151,
     "title": "Ep 109 | Abrir um estúdio em 2022 com Daniela Quintela",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 109
   },
   {
     "uuid": "af7fbf06-0101-421c-a22a-85553c6b1f47",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/70425804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-15%2F329667543-44100-2-fe53582c3493b.mp3",
     "published": "2023-05-15T17:53:51Z",
     "duration": 4429,
     "title": "Ep 129 | Encontrar a nossa linguagem através da experimentação com José Farinha",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 129
   },
   {
     "uuid": "b5c80cc1-b8e1-41b4-8a5b-bc57bbeca331",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/69591177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-1%2F327002345-44100-2-02f253ef02c3a.mp3",
     "published": "2023-05-01T10:02:48Z",
     "duration": 3164,
     "title": "Ep 127 | O outro lado dos Destination Weddings com Ana Pastoria",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 127
   },
   {
     "uuid": "bcad3176-314f-4079-859f-75fc8bf4688e",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/69975786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-8%2F328282601-44100-2-c63cd1af3dd76.mp3",
     "published": "2023-05-08T17:10:18Z",
     "duration": 3965,
     "title": "Ep 128 | Temos um newsletter e respondemos às tuas perguntas",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 128
   },
   {
     "uuid": "f016a281-54af-4af1-95a6-03cd3696741e",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/69194036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-24%2F325708591-44100-2-f0e9015fff267.mp3",
     "published": "2023-04-24T11:32:33Z",
     "duration": 3088,
     "title": "Ep 126 | A importância dos trabalhos autorais com Mário Cruz",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 126
   },
   {
     "uuid": "f7ece61f-a906-4281-b51b-45cd44b1b83c",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/67422510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-27%2F320609043-44100-2-0d18c91d7f8c3.mp3",
     "published": "2023-03-27T17:57:42Z",
     "duration": 1163,
     "title": "Ep 124 | AI de novo, exclusividade com agências e pseudo rendimento passivo",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 124
   },
   {
     "uuid": "f9d61638-b330-40d0-87b0-450e6bb45511",
+    "url": "https://anchor.fm/s/37240a40/podcast/play/63926955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317401493-44100-2-d97726532d072.mp3",
     "published": "2023-01-23T19:58:04Z",
     "duration": 4689,
     "title": "Ep 115 | Tudo tem um motivo com Carlos Pfumo",
     "playingStatus": 3,
-    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2"
+    "podcastUuid": "f03ded00-058c-0139-4197-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 115
   },
   {
     "uuid": "03eefee2-74b3-4340-be95-663a4616a5c4",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/80256076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-20%2F52360f8b-e7f0-bcc3-ab73-bfc9c390291b.mp3",
     "published": "2023-12-20T11:25:00Z",
     "duration": 7143,
     "title": "Jogos do Ano 2023, 2.ª parte",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 154
   },
   {
     "uuid": "3a5a00a6-5ba0-4081-8cdd-459baade0e75",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/64013741/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-29%2Ffe48658c-e499-9738-00cf-6d26569d364b.mp3",
     "published": "2023-01-30T12:25:00Z",
     "duration": 14040,
     "title": "Especial: Jogos do ano 2022 (Parte 1)",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 120
   },
   {
     "uuid": "42b3ea5c-9a09-42a6-a66c-0d0250701f79",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/79857984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2Fa9990a58-cc0c-79fb-2924-ec2c77c2626d.mp3",
     "published": "2023-12-15T01:26:55Z",
     "duration": 7424,
     "title": "Glitch Gamecast Ep. 154 - Adeus e até para o ano!",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 154
   },
   {
     "uuid": "44359628-2c35-4232-87e5-618e06689295",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/81295191/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-19%2Fed2196bd-fcc1-f592-80ee-3b8bf88aacef.mp3",
     "published": "2024-01-19T01:57:35Z",
     "duration": 10542,
     "title": "Glitch Gamecast Ep. 156 - Serviços Vivos com Rurikhan",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 156
   },
   {
     "uuid": "715a9420-e791-47e9-a5e6-697d745a24b3",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/72193826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-16%2Fad25eaed-225a-f92b-77dc-e7deb3641851.mp3",
     "published": "2023-06-16T00:24:46Z",
     "duration": 7565,
     "title": "Glitch Gamecast Ep. 139 - TRINTA CARA&#@!!!",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 139
   },
   {
     "uuid": "813dd8e6-05be-429d-94d4-2da92261b7e3",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/82066330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-2%2Fc25e658f-c4e7-070a-f910-745e711fd43e.mp3",
     "published": "2024-02-02T00:47:01Z",
     "duration": 7086,
     "title": "Glitch Gamecast Ep. 158 - KOJIMADAS! com Daniel Camilo",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 158
   },
   {
     "uuid": "dbc7c286-c598-4a37-9e0f-98b7f2c1ef84",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/71696863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-8%2F3b3ec55b-e6be-8011-def1-39d1cdf4ae11.mp3",
     "published": "2023-06-08T23:13:34Z",
     "duration": 5469,
     "title": "Glitch Gamecast Ep. 138 - Summer Game Fest 2023",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 138
   },
   {
     "uuid": "ece8f74b-f162-4911-9ba3-68c698077cc3",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/72499122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-23%2F8305bac4-3a44-91da-803e-9fd3f3d8f101.mp3",
     "published": "2023-06-23T00:25:36Z",
     "duration": 6773,
     "title": "Glitch Gamecast Ep. 140 - O Super Trombil",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 140
   },
   {
     "uuid": "f7330eca-afa3-4511-a552-1d6d87fc6130",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/79986478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-13%2F132f6414-3e8b-4141-d389-97db7823338c.mp3",
     "published": "2023-12-14T10:30:00Z",
     "duration": 5820,
     "title": "Jogos do Ano 2023, 1.ª parte",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 154
   },
   {
     "uuid": "fa431f27-0fe7-4179-98a1-67512b1a6040",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/64299479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F82d46a30-8296-f84b-b299-a80b996b05ce.mp3",
     "published": "2023-02-09T12:20:03Z",
     "duration": 15419,
     "title": "Especial: Jogos do ano 2022 (Parte 2)",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 122
   },
   {
     "uuid": "fafdc824-9edf-433b-b033-5d646f34a86f",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/81156848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-12%2F72d3fae4-edfc-d588-80d5-206802b9da57.mp3",
     "published": "2024-01-12T01:23:25Z",
     "duration": 10968,
     "title": "Glitch Gamecast Ep. 155 - Patanica de Bacalau com AndreTGV",
     "playingStatus": 3,
-    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2"
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 155
   },
   {
     "uuid": "1300f402-6f09-49e3-a723-3a4112e90c39",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_445.mp3?dest-id=532671",
     "published": "2022-04-04T10:00:00Z",
     "duration": 1533,
     "title": "Types in JS?",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "2f10088b-2464-4269-b736-aaa3bb74332a",
+    "url": "https://traffic.libsyn.com/secure/syntax/723_-_Svelte_5_Speed_Simplicity__Size.mp3?dest-id=532671",
     "published": "2024-01-29T10:00:00Z",
     "duration": 2274,
     "title": "723: Svelte 5: Speed Simplicity Size",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "38c97002-7d58-47e1-bd66-8b36eb52bea9",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_428.mp3?dest-id=532671",
     "published": "2022-02-02T11:00:00Z",
     "duration": 3630,
     "title": "Syntax Highlight",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "4244c32f-de89-4884-a3aa-5937636927eb",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax403.mp3?dest-id=532671",
     "published": "2021-11-08T14:00:00Z",
     "duration": 1222,
     "title": "Hasty Treat - What's the deal with Astro?",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "447604be-d6b2-403b-b456-d25a4efc8a87",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_426.mp3?dest-id=532671",
     "published": "2022-01-26T11:00:00Z",
     "duration": 3634,
     "title": "Monorepos! Workspaces, pnpm, turborepo + more!",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "45a84c9d-01e4-4258-91cf-5e4ec80a4d7e",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_579.mp3?dest-id=532671",
     "published": "2023-02-22T11:00:00Z",
     "duration": 3998,
     "title": "Warp Terminal × Next Gen Terminals",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "47d0d505-4e80-45b7-a879-234bfd5cdd3c",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_443.mp3?dest-id=532671",
     "published": "2022-03-28T10:00:00Z",
     "duration": 1286,
     "title": "What’s Up With Vitest?",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "4c0ca417-b1b5-4930-8232-56a4780cd5b2",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_429.mp3?dest-id=532671",
     "published": "2022-02-07T11:00:00Z",
     "duration": 1849,
     "title": "Pros + Cons of JavaScript Servers, Serverless, and Cloudflare Workers",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "503c2332-182d-4cbf-94a5-dd307ac36c9d",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_419.mp3?dest-id=532671",
     "published": "2022-01-03T11:00:00Z",
     "duration": 1373,
     "title": "JS One Liners",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "593b11ba-f101-4dbb-b38f-3d67a9c24622",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_411.mp3?dest-id=532671",
     "published": "2021-12-06T13:00:00Z",
     "duration": 1800,
     "title": "Meta Tags",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "5cbbe68d-fe4a-45af-a392-fbcfd27e058e",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_712.mp3?dest-id=532671",
     "published": "2024-01-03T10:00:00Z",
     "duration": 3787,
     "title": "712: 2024 Predictions",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "64a7deaf-1469-49fa-9e3c-feedbdfb3dd7",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_551.mp3?dest-id=532671",
     "published": "2022-12-19T11:00:00Z",
     "duration": 1656,
     "title": "“Serverless” Databases",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "705a8933-9399-4c7e-8ea9-07832ef4a093",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_548.mp3?dest-id=532671",
     "published": "2022-12-12T11:00:00Z",
     "duration": 1702,
     "title": "Rendering Methods Explained",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "834ba75b-e387-4f5e-9bdd-8e3b6662a4cc",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_446.mp3?dest-id=532671",
     "published": "2022-04-06T10:00:00Z",
     "duration": 3491,
     "title": "Making Content × What is our Process? Youtube, Blog Posts, Courses, Conference Talks, and Podcasts",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "9141f55f-7221-4ae5-a24f-bee67b4db18f",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_424_v2.mp3?dest-id=532671",
     "published": "2022-01-19T11:00:00Z",
     "duration": 3071,
     "title": "New Year, New You. What to Focus on in 2022.",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "94e8b245-b2e9-4c52-b7fb-e293d684b9fd",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_727.mp3?dest-id=532671",
     "published": "2024-02-07T12:00:00Z",
     "duration": 3576,
     "title": "727: How to Code: Opinionated TypeScript Stack + Tooling Choices Explained",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "96a2bd1f-7d9a-4361-a9ef-cb4c73f7e50e",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_573.mp3?dest-id=532671",
     "published": "2023-02-08T11:00:00Z",
     "duration": 4350,
     "title": "Converting JS to TypeScript",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "9886d9d5-e690-42a0-8e4b-6d6b6a65f233",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_584.mp3?dest-id=532671",
     "published": "2023-03-06T11:00:14Z",
     "duration": 1741,
     "title": "Node in the Browser × WebContainers + NodeBox",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "9bdee768-e02e-489e-8faa-b32aede146ba",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_554.mp3?dest-id=532671",
     "published": "2022-12-26T11:00:00Z",
     "duration": 1626,
     "title": "554: Desktop apps in JS × Electron and Tauri",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "a0da0b81-6d4a-4cdf-bd51-2f47f593ac81",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_438.mp3?dest-id=532671",
     "published": "2022-03-09T11:00:00Z",
     "duration": 3539,
     "title": "Part 2 of Wes and Scott React to the State of JS",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "a8498042-0924-4847-9025-e8f8843b8a54",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_440.mp3?dest-id=532671",
     "published": "2022-03-16T10:00:00Z",
     "duration": 3628,
     "title": "Potluck - Handling Auth × Are Web Dev Real Developers? × Handling Git Conflicts × Converting PNG to Box-Shadow × Bad Docs vs No Docs × Making Shopify Headless",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "a898094c-8ad4-4495-a6f9-920128d9cafc",
+    "url": "https://traffic.libsyn.com/secure/syntax/ISHTMX_Joke_726.mp3?dest-id=532671",
     "published": "2024-02-05T10:00:00Z",
     "duration": 1934,
     "title": "726: Is HTMX a Joke?",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "ac43cd29-2520-4949-b65d-cf333784350e",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_430.mp3?dest-id=532671",
     "published": "2022-02-09T11:00:00Z",
     "duration": 3850,
     "title": "Creator of Wordle - Josh Wardle",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "afc9f1b5-5e2b-4345-966c-c106c76f5e0d",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_442.mp3?dest-id=532671",
     "published": "2022-03-23T10:00:00Z",
     "duration": 4334,
     "title": "Our Stacks Explained",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "b47d6244-6d2d-4dea-9b50-7430345d5326",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_423.mp3?dest-id=532671",
     "published": "2022-01-17T11:00:00Z",
     "duration": 1574,
     "title": "CSS + JS Hacks We’re Fine With",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "b47d7e83-6de3-4daf-968c-8c2fd74b72c4",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_549.mp3?dest-id=532671",
     "published": "2022-12-14T11:00:00Z",
     "duration": 4195,
     "title": "JavaScript in 2022",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "caf55cf7-2119-4dfc-afb6-4c1ba369349f",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_425.mp3?dest-id=532671",
     "published": "2022-01-24T11:00:00Z",
     "duration": 1119,
     "title": "Updating Project Dependencies",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "d0c7128a-7669-47a6-8515-887c725de8dc",
+    "url": "https://traffic.libsyn.com/secure/syntax/OwnyourownPaaS730.mp3?dest-id=532671",
     "published": "2024-02-14T12:07:00Z",
     "duration": 3477,
     "title": "730: Own Your Own PaaS",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "d7f1b402-a8ff-4836-8dbc-987eec310a1f",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_436.mp3?dest-id=532671",
     "published": "2022-03-02T11:00:00Z",
     "duration": 3231,
     "title": "Wes and Scott React to the State of JS",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "dbf8544a-fe57-4916-a3cc-1241211d0054",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_575.mp3?dest-id=532671",
     "published": "2023-02-13T11:00:00Z",
     "duration": 1485,
     "title": "Save us from Config File Hell",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "e1646dd8-2cc9-432e-a5f4-17f4db215052",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_555.mp3?dest-id=532671",
     "published": "2022-12-28T11:00:00Z",
     "duration": 3612,
     "title": "Were We Wrong? 2022 Predictions Revisited",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "f9d596c6-2456-47bf-b929-63f1d5be5c91",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_427.mp3?dest-id=532671",
     "published": "2022-01-31T13:00:00Z",
     "duration": 1360,
     "title": "Teamwork Makes The Dream Work",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "faf6011f-e2e2-48c7-9e66-d7bd52d2fe74",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_533.mp3?dest-id=532671",
     "published": "2022-11-07T11:00:00Z",
     "duration": 1444,
     "title": "Zod Schema Validation and Type Generation",
     "playingStatus": 3,
-    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224"
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   }
 ]

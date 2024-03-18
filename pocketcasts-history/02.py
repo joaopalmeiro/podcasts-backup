@@ -48,11 +48,14 @@ class Episodes(BaseModel):
 
 class FullEpisode(BaseModel):
     uuid: UUID
+    url: HttpUrl
     published: datetime
     duration: int
     title: str
     playingStatus: PlayingStatus  # noqa: N815
     podcastUuid: UUID  # noqa: N815
+    episodeSeason: int  # noqa: N815
+    episodeNumber: int  # noqa: N815
 
     model_config = ConfigDict(extra="ignore")
 
