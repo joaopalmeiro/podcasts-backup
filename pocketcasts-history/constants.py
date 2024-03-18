@@ -9,5 +9,6 @@ EPISODES_ENDPOINT = urljoin(BASE_URL, "/user/podcast/episodes/bookmarks")
 EPISODE_ENDPOINT = urljoin(BASE_URL, "/user/episode")
 
 DATA_FOLDER = Path("../data")
+RECENT_HISTORY_OUTPUT_PATH = DATA_FOLDER / "pocketcasts-recent-history.json"
 HISTORY_OUTPUT_PATH = DATA_FOLDER / "pocketcasts-history.json"
 SUBSCRIBED_OUTPUT_PATH = DATA_FOLDER / "pocketcasts-subscribed-podcasts.json"

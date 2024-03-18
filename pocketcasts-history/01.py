@@ -9,7 +9,7 @@ from pydantic import BaseModel, ConfigDict
 from constants import (
     DATA_FOLDER,
     HISTORY_ENDPOINT,
-    HISTORY_OUTPUT_PATH,
+    RECENT_HISTORY_OUTPUT_PATH,
 )
 from models import PlayingStatus
 from utils import get_token, write_model_json
@@ -52,4 +52,6 @@ if __name__ == "__main__":
     token = get_token(env("POCKET_CASTS_EMAIL"), env("POCKET_CASTS_PASSWORD"))
     history = get_history(token)
 
-    write_model_json(history, HISTORY_OUTPUT_PATH)
+    print(f"Number of recent episodes: {history.total}")
+
+    write_model_json(history, RECENT_HISTORY_OUTPUT_PATH)
