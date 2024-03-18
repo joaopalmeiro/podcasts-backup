@@ -97,6 +97,7 @@ def get_episode_ids(token: str, subscriptions: Subscriptions) -> list[UUID]:
     for r in rs:
         data = r.json()
         episodes = Episodes(**data)
+
         ids.extend(
             episode.uuid
             for episode in episodes.episodes
@@ -104,6 +105,7 @@ def get_episode_ids(token: str, subscriptions: Subscriptions) -> list[UUID]:
         )
 
     logger.debug("Number of episode IDs: %d", len(ids))
+
     return ids
 
 
@@ -119,8 +121,10 @@ def get_history(token: str, episode_ids: list[UUID]) -> History:
     for r in rs:
         try:
             data = r.raise_for_status().json()
+
             episode = FullEpisode(**data)
             episodes.append(episode)
+
             logger.debug("Episode %r ✓", episode.title)
         except niquests.HTTPError:
             logger.warning("Episode not found: %s", r.request.body)
