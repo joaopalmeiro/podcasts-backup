@@ -103,6 +103,7 @@ def get_episode_ids(token: str, subscriptions: Subscriptions) -> list[UUID]:
             if episode.playingStatus == PlayingStatus.played
         )
 
+    logger.debug("Number of episode IDs: %d", len(ids))
     return ids
 
 
@@ -120,6 +121,7 @@ def get_history(token: str, episode_ids: list[UUID]) -> History:
             data = r.raise_for_status().json()
             episode = FullEpisode(**data)
             episodes.append(episode)
+            logger.debug("Episode %r ✓", episode.title)
         except niquests.HTTPError:
             logger.warning("Episode not found: %s", r.request.body)
 
