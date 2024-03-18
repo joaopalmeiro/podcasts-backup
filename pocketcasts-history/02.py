@@ -53,7 +53,6 @@ class FullEpisode(BaseModel):
     title: str
     playingStatus: PlayingStatus  # noqa: N815
     podcastUuid: UUID  # noqa: N815
-    podcastTitle: str  # noqa: N815
 
     model_config = ConfigDict(extra="ignore")
 
