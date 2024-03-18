@@ -1,5 +1,4 @@
 from datetime import datetime
-from enum import IntEnum
 from uuid import UUID
 
 import niquests
@@ -12,12 +11,8 @@ from constants import (
     HISTORY_ENDPOINT,
     HISTORY_OUTPUT_PATH,
 )
+from models import PlayingStatus
 from utils import get_token
-
-
-class PlayingStatus(IntEnum):
-    playing = 2
-    played = 3
 
 
 class Episode(BaseModel):

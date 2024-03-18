@@ -11,6 +11,8 @@
   - https://niquests.readthedocs.io/en/latest/user/quickstart.html#multiplexed-connection:
     - "The only thing you will ever have to do to get started is to specify `multiplexed=True` from within your `Session` constructor."
     - "Any `Response`returned by get, post, put, etc… will be a lazy instance of `Response`."
+  - https://niquests.readthedocs.io/en/latest/user/quickstart.html#session-gather:
+    - `s.gather()  # resolve all pending "lazy" responses`
   - https://niquests.readthedocs.io/en/latest/api.html#requests.Session
   - https://toolbelt.readthedocs.io/en/latest/sessions.html#baseurlsession
   - https://niquests.readthedocs.io/en/latest/user/quickstart.html#make-a-request
@@ -35,6 +37,9 @@
   - https://docs.pydantic.dev/2.6/api/standard_library_types/#enum
   - https://docs.pydantic.dev/latest/api/config/#pydantic.config.ConfigDict.extra
   - https://docs.pydantic.dev/latest/api/networks/#pydantic.networks.HttpUrl
+  - https://docs.pydantic.dev/latest/api/base_model/#pydantic.BaseModel.model_dump
+  - https://github.com/pydantic/speedate
+  - https://github.com/pydantic/pydantic/issues/6512
 - mypy:
   - https://github.com/python/mypy/blob/master/CHANGELOG.md#mypy-19
   - https://mypy.readthedocs.io/en/stable/command_line.html#cmdoption-mypy-local-partial-types
@@ -91,4 +96,16 @@ def get_history(token: str) -> History:
     write_json(data, Path("history.json"))
 
     return History(**data)
+```
+
+```python
+from pathlib import Path
+from gaveta.json import write_json
+write_json(subscriptions.model_dump(mode="json"), Path("subscriptions.json"))
+```
+
+```python
+from pathlib import Path
+from gaveta.json import write_json
+write_json(episodes, Path("episodes.json"))
 ```
