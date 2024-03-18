@@ -67,6 +67,8 @@ python 01.py
 python 02.py
 ```
 
+Clear the list of recently listened to episodes ([History](https://play.pocketcasts.com/history)) from Pocket Casts.
+
 ```bash
 deactivate
 ```
