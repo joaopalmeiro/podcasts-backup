@@ -12,7 +12,7 @@ from constants import (
     HISTORY_OUTPUT_PATH,
 )
 from models import PlayingStatus
-from utils import get_token
+from utils import get_token, write_model_json
 
 
 class Episode(BaseModel):
@@ -52,6 +52,4 @@ if __name__ == "__main__":
     token = get_token(env("POCKET_CASTS_EMAIL"), env("POCKET_CASTS_PASSWORD"))
     history = get_history(token)
 
-    with HISTORY_OUTPUT_PATH.open(mode="w", encoding="utf-8") as f:
-        f.write(history.model_dump_json(indent=2))
-        f.write("\n")
+    write_model_json(history, HISTORY_OUTPUT_PATH)

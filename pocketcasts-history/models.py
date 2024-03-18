@@ -12,5 +12,7 @@ class Login(BaseModel):
 
 
 class PlayingStatus(IntEnum):
+    unplayed_unarchived = 0
+    unplayed = 1
     playing = 2
     played = 3
