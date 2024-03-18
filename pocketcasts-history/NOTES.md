@@ -67,6 +67,28 @@
 - https://github.com/Automattic/pocket-casts-android/blob/7.58/modules/services/model/src/main/java/au/com/shiftyjelly/pocketcasts/models/entity/PodcastEpisode.kt#L164: `setPlayingStatusInt(status: Int)`
 - https://github.com/Automattic/pocket-casts-android/blob/7.58/modules/features/podcasts/src/main/java/au/com/shiftyjelly/pocketcasts/podcasts/view/podcast/UserEpisodeViewHolder.kt#L194: `val episodeGreyedOut = episode.playingStatus == EpisodePlayingStatus.COMPLETED || episode.isArchived`
 - https://github.com/Automattic/pocket-casts-android/blob/7.58/modules/services/repositories/src/main/java/au/com/shiftyjelly/pocketcasts/repositories/podcast/PodcastManagerImpl.kt#L275
+- Logging:
+  - https://docs.python.org/3/howto/logging.html
+  - [Python Logging: How to Write Logs Like a Pro!](https://youtu.be/pxuXaaT1u3k?feature=shared) by ArjanCodes
+  - https://docs.python.org/3/library/logging.config.html#dictionary-schema-details
+  - https://earthly.dev/blog/logging-in-python/:
+    - "The empty string `''` as the logger name in the `loggers` dictionary refers to the root logger."
+  - https://github.com/madzak/python-json-logger
+  - https://docs.python.org/3/library/logging.handlers.html#logging.StreamHandler
+  - https://docs.python.org/3/library/logging.handlers.html#logging.FileHandler
+  - https://docs.python-guide.org/writing/logging/#example-configuration-via-a-dictionary
+  - https://github.com/Delgan/loguru
+  - https://python-hyper.org/projects/hpack/en/stable/_modules/hpack/hpack.html
+  - https://docs.python.org/3/howto/logging-cookbook.html#custom-handling-of-levels
+  - https://docs.python.org/3/library/logging.html#logging.Formatter
+  - https://docs.python.org/3/library/stdtypes.html#old-string-formatting
+  - https://stackoverflow.com/a/4152986
+  - https://stackoverflow.com/a/45967068
+  - https://docs.python.org/3/library/logging.html#logging.getLogger: "All calls to this function with a given name return the same logger instance. This means that logger instances never need to be passed between different parts of an application."
+  - https://docs.astral.sh/ruff/rules/logging-f-string/ + https://docs.astral.sh/ruff/settings/#lint_logger-objects:
+    - "Using f-strings to format a logging message requires that Python eagerly format the string, even if the logging statement is never executed (...)"
+    - "As an alternative to `extra`, passing values as arguments to the logging method can also be used to defer string formatting until required."
+  - https://github.com/globality-corp/flake8-logging-format?tab=readme-ov-file#whats-this
 
 ## Commands
 

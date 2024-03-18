@@ -1,4 +1,7 @@
+import logging
 from datetime import datetime
+from logging.config import dictConfig
+from pathlib import Path
 from uuid import UUID
 
 import niquests
@@ -12,6 +15,7 @@ from constants import (
     EPISODES_ENDPOINT,
     HISTORY_OUTPUT_PATH,
     LIST_ENDPOINT,
+    LOGGING_CONFIG,
     SUBSCRIBED_OUTPUT_PATH,
 )
 from models import PlayingStatus
@@ -117,12 +121,15 @@ def get_history(token: str, episode_ids: list[UUID]) -> History:
             episode = FullEpisode(**data)
             episodes.append(episode)
         except niquests.HTTPError:
-            print("Episode not found:", r.request.body)
+            logger.warning("Episode not found: %s", r.request.body)
 
     return History(episodes)
 
 
 if __name__ == "__main__":
+    dictConfig(LOGGING_CONFIG)
+    logger = logging.getLogger(Path(__file__).stem)
+
     ensure_folder(DATA_FOLDER)
 
     env = Env()
@@ -134,8 +141,8 @@ if __name__ == "__main__":
     episode_ids = get_episode_ids(token, subscriptions)
     history = get_history(token, episode_ids)
 
-    print(f"Number of podcasts: {len(subscriptions.podcasts)}")
-    print(f"Number of episodes: {len(history)}")
+    logger.info("Number of podcasts: %d", len(subscriptions.podcasts))
+    logger.info("Number of episodes: %d", len(history))
 
     write_model_json(subscriptions, SUBSCRIBED_OUTPUT_PATH)
     write_model_json(history, HISTORY_OUTPUT_PATH)

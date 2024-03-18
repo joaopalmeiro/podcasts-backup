@@ -3,6 +3,7 @@
 .mypy_cache/
 __pycache__/
 .env
+script.log
 
 # https://docs.astral.sh/ruff/settings/#cache-dir
 .ruff_cache/

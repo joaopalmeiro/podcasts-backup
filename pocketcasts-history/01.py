@@ -1,4 +1,7 @@
+import logging
 from datetime import datetime
+from logging.config import dictConfig
+from pathlib import Path
 from uuid import UUID
 
 import niquests
@@ -9,6 +12,7 @@ from pydantic import BaseModel, ConfigDict
 from constants import (
     DATA_FOLDER,
     HISTORY_ENDPOINT,
+    LOGGING_CONFIG,
     RECENT_HISTORY_OUTPUT_PATH,
 )
 from models import PlayingStatus
@@ -44,6 +48,9 @@ def get_history(token: str) -> History:
 
 
 if __name__ == "__main__":
+    dictConfig(LOGGING_CONFIG)
+    logger = logging.getLogger(Path(__file__).stem)
+
     ensure_folder(DATA_FOLDER)
 
     env = Env()
@@ -52,6 +59,6 @@ if __name__ == "__main__":
     token = get_token(env("POCKET_CASTS_EMAIL"), env("POCKET_CASTS_PASSWORD"))
     history = get_history(token)
 
-    print(f"Number of recent episodes: {history.total}")
+    logger.info("Number of recent episodes: %d", history.total)
 
     write_model_json(history, RECENT_HISTORY_OUTPUT_PATH)
