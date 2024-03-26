@@ -151,6 +151,12 @@
       "url": "https://designdetails.fm/"
     },
     {
+      "uuid": "6c5157e0-cb9f-013c-7260-0250fb4935ed",
+      "title": "DejaVue",
+      "author": "Alexander Lichter & Michael Thiessen",
+      "url": "https://dejavue.fm/"
+    },
+    {
       "uuid": "6d911b70-1c28-0134-a45d-13e6b3913b15",
       "title": "A Beleza das Pequenas Coisas",
       "author": "Expresso",
@@ -345,8 +351,8 @@
     {
       "uuid": "ef215300-0914-0136-c264-7d73a919276a",
       "title": "Views on Vue",
-      "author": "Steve Edwards, Luke Diebold",
-      "url": "https://redcircle.com/shows/views-on-vue"
+      "author": "Charles M Wood",
+      "url": "https://topenddevs.com/podcasts/views-on-vue"
     },
     {
       "uuid": "ef9bbf70-a695-0130-20e4-723c91aeae46",
