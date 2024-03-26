@@ -20,7 +20,7 @@ pyenv install && pyenv versions
 ```
 
 ```bash
-pip install uv==0.1.17 && uv --version
+pip install uv==0.1.24 && uv --version
 ```
 
 ```bash
@@ -44,7 +44,11 @@ uv pip list --strict
 ```
 
 ```bash
-ruff check .
+uv pip check --verbose
+```
+
+```bash
+ruff check
 ```
 
 ```bash
@@ -52,11 +56,11 @@ mypy
 ```
 
 ```bash
-ruff check --fix .
+ruff check --fix
 ```
 
 ```bash
-ruff format .
+ruff format
 ```
 
 ```bash
