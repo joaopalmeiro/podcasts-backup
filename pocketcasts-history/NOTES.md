@@ -89,6 +89,7 @@
     - "Using f-strings to format a logging message requires that Python eagerly format the string, even if the logging statement is never executed (...)"
     - "As an alternative to `extra`, passing values as arguments to the logging method can also be used to defer string formatting until required."
   - https://github.com/globality-corp/flake8-logging-format?tab=readme-ov-file#whats-this
+- https://dotenvx.com/docs/features/genexample: `.env.example`
 
 ## Commands
 
