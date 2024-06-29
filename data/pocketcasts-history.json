@@ -374,6 +374,28 @@
     "episodeNumber": 3
   },
   {
+    "uuid": "6eccc212-7bed-486d-8b42-bda904ca785b",
+    "url": "https://anchor.fm/s/da2053d4/podcast/play/64309306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-31%2F310361814-44100-2-3b7c18ad27207888.mp3",
+    "published": "2021-08-11T11:00:00Z",
+    "duration": 961,
+    "title": "The importance of being Patient with your Photography",
+    "playingStatus": 3,
+    "podcastUuid": "53771960-7813-0138-edec-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "fe9100d9-41ba-4706-a08b-26b75bcb45e4",
+    "url": "https://anchor.fm/s/6c4c8620/podcast/play/82659369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367423432-44100-2-ef1ca640898e2.mp3",
+    "published": "2024-02-14T19:45:00Z",
+    "duration": 6219,
+    "title": "#53 RUI TAVARES - Esquerda e Direita, História, Política, Joacine, Chega, André Ventura",
+    "playingStatus": 3,
+    "podcastUuid": "5da398e0-fed9-0139-d527-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
     "uuid": "132f14b2-4c35-4614-859b-f177695295d4",
     "url": "https://traffic.libsyn.com/secure/quarentaecincograus/Ricardo_Costa_episodio.mp3?dest-id=582963",
     "published": "2023-01-18T05:30:00Z",
@@ -526,6 +548,17 @@
     "podcastUuid": "6a10ce90-2ba3-013a-d617-0acc26574db2",
     "episodeSeason": 0,
     "episodeNumber": 0
+  },
+  {
+    "uuid": "8217af58-206e-45b1-b3a9-44dd9f306992",
+    "url": "https://media.transistor.fm/90ce0fd6/a068a316.mp3",
+    "published": "2024-03-28T15:00:00Z",
+    "duration": 2144,
+    "title": "The Need for Server-Side Rendering (SSR)",
+    "playingStatus": 3,
+    "podcastUuid": "6c5157e0-cb9f-013c-7260-0250fb4935ed",
+    "episodeSeason": 0,
+    "episodeNumber": 1
   },
   {
     "uuid": "8fcf0145-5dd0-4014-b87b-30084dd09360",
@@ -858,6 +891,17 @@
     "episodeNumber": 0
   },
   {
+    "uuid": "9e66ca3b-42d1-4c10-85a6-0793c53b1155",
+    "url": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/d4708dd8-82fb-44bd-af48-1650a0e78252.mp3",
+    "published": "2024-04-10T12:00:00Z",
+    "duration": 2126,
+    "title": "Optimizing URL parsing in Node with Yagiz Nizipli",
+    "playingStatus": 3,
+    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 0
+  },
+  {
     "uuid": "d424278d-b03d-489a-89d1-1b3bb5211d6c",
     "url": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/729c9864-fa9e-412b-9983-782c1642c5cf.mp3",
     "published": "2023-05-24T12:00:00Z",
@@ -979,6 +1023,17 @@
     "episodeNumber": 16
   },
   {
+    "uuid": "c18f9df1-6245-4acd-b196-006c6038cb1c",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/88121838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-17%2F19528a29-e0cc-4907-87cf-f94457877ab4.mp3",
+    "published": "2024-06-17T14:06:15Z",
+    "duration": 754,
+    "title": "O que Há de novo #8 (17junho - 23junho)",
+    "playingStatus": 3,
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 1,
+    "episodeNumber": 8
+  },
+  {
     "uuid": "c7595f68-f95e-4f30-8477-b4ccb4a1a726",
     "url": "https://anchor.fm/s/19213a4/podcast/play/81349562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-16%2F9464b6f8-fadd-dd24-2c1f-ae8a992aba90.mp3",
     "published": "2024-01-16T15:18:48Z",
@@ -1043,6 +1098,17 @@
     "podcastUuid": "b3e294c0-0ef6-013c-f5c9-0acc26574db2",
     "episodeSeason": 1,
     "episodeNumber": 1
+  },
+  {
+    "uuid": "4e41aba7-bf91-4a85-a5d2-69642f80a3db",
+    "url": "https://anchor.fm/s/de9b268c/podcast/play/86078249/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2Fef30ea21-88e4-0b09-141d-ba2cda7187b6.mp3",
+    "published": "2024-04-30T09:00:00Z",
+    "duration": 2716,
+    "title": "S02#E03 ROOF - Fotografia em forma de alerta",
+    "playingStatus": 3,
+    "podcastUuid": "b3e294c0-0ef6-013c-f5c9-0acc26574db2",
+    "episodeSeason": 2,
+    "episodeNumber": 3
   },
   {
     "uuid": "210a715e-257a-4732-863e-602e7ee6f82b",
@@ -1144,6 +1210,17 @@
     "episodeNumber": 230
   },
   {
+    "uuid": "177ac413-f371-4fc3-8473-83ab4b10f5e8",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e291/e291.mp3",
+    "published": "2024-03-21T00:00:00Z",
+    "duration": 3467,
+    "title": "Santo Seppuku",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 291
+  },
+  {
     "uuid": "18e4b34d-fb12-4fe7-a396-78f3c22f4dda",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e224/e224.mp3",
     "published": "2022-12-08T00:00:00Z",
@@ -1164,6 +1241,17 @@
     "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
     "episodeSeason": 0,
     "episodeNumber": 287
+  },
+  {
+    "uuid": "20edd0bf-1808-4c51-b1bd-a988a05c57a0",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e300/e300.mp3",
+    "published": "2024-05-23T00:00:00Z",
+    "duration": 3348,
+    "title": "Isto não é Esparta.",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 300
   },
   {
     "uuid": "2175eb1c-684b-42ec-9ae3-656a47009fd9",
@@ -1219,6 +1307,28 @@
     "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
     "episodeSeason": 0,
     "episodeNumber": 221
+  },
+  {
+    "uuid": "32cc1118-cecc-47a2-8b2e-633062a30e95",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e293/e293.mp3",
+    "published": "2024-04-04T00:00:00Z",
+    "duration": 3479,
+    "title": "A Microsoft salvou o Linux",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 293
+  },
+  {
+    "uuid": "362666a7-391c-4db7-9a22-54a59992f800",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e294/e294.mp3",
+    "published": "2024-04-11T00:00:00Z",
+    "duration": 3494,
+    "title": "Especial Wikicon Portugal 2024 - tomo I",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 294
   },
   {
     "uuid": "4d04213c-98dd-4128-b05c-bfbab11703fb",
@@ -1309,6 +1419,17 @@
     "episodeNumber": 219
   },
   {
+    "uuid": "70685902-9ce1-44e3-805b-94919e193cd1",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e292/e292.mp3",
+    "published": "2024-03-28T00:00:00Z",
+    "duration": 3483,
+    "title": "O Nabo da Casa",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 292
+  },
+  {
     "uuid": "716c5cc0-0290-4710-ab86-741708fa4fc1",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e242/e242.mp3",
     "published": "2023-04-13T00:00:00Z",
@@ -1375,6 +1496,17 @@
     "episodeNumber": 232
   },
   {
+    "uuid": "9aee8d0c-8f9f-48ec-ac7a-fa5763b56edd",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e295/e295.mp3",
+    "published": "2024-04-18T00:00:00Z",
+    "duration": 5114,
+    "title": "Viagem à Quinta Dimensão",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 295
+  },
+  {
     "uuid": "9c41d9c2-1985-4d71-928f-9478ee0b6390",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e237/e237.mp3",
     "published": "2023-03-09T00:00:00Z",
@@ -1406,6 +1538,39 @@
     "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
     "episodeSeason": 0,
     "episodeNumber": 239
+  },
+  {
+    "uuid": "ac23a339-d0c1-4ec7-97be-6652092304da",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e302/e302.mp3",
+    "published": "2024-06-06T00:00:00Z",
+    "duration": 3489,
+    "title": "Por Trilhos Nunca Dantes Trilhados",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 302
+  },
+  {
+    "uuid": "b9735e31-3c2a-4eb0-a009-2a593df89eed",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e297/e297.mp3",
+    "published": "2024-05-02T00:00:00Z",
+    "duration": 3545,
+    "title": "Framboesa 3.1416",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 297
+  },
+  {
+    "uuid": "ba84e7ca-61a3-4121-b396-c3ff2fa8caf7",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e298/e298.mp3",
+    "published": "2024-05-09T00:00:00Z",
+    "duration": 3576,
+    "title": "Quem LVM Não Teme",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 298
   },
   {
     "uuid": "baf109b8-647f-4b8c-a849-a2827c510e97",
@@ -1450,6 +1615,17 @@
     "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
     "episodeSeason": 0,
     "episodeNumber": 243
+  },
+  {
+    "uuid": "c4220136-2219-4960-802e-9c5781dcffe0",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e296/e296.mp3",
+    "published": "2024-04-25T00:00:00Z",
+    "duration": 4751,
+    "title": "Nobre Mirmecóbio Refrigerado",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 296
   },
   {
     "uuid": "cff35814-0169-47e0-935e-42f5fba15a40",
@@ -1507,6 +1683,17 @@
     "episodeNumber": 286
   },
   {
+    "uuid": "eabf8cf5-eca6-45e1-8d3c-c756b81c5940",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e299/e299.mp3",
+    "published": "2024-05-16T00:00:00Z",
+    "duration": 4098,
+    "title": "Budo dos Dados Abertos, com Frederico Muñoz",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 299
+  },
+  {
     "uuid": "eb01effe-ebf9-4dce-a755-f0a6a4392aeb",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e234/e234.mp3",
     "published": "2023-02-16T00:00:00Z",
@@ -1551,6 +1738,17 @@
     "episodeNumber": 218
   },
   {
+    "uuid": "fa05e0aa-efc6-408a-92ca-38d7df402a1a",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e301/e301.mp3",
+    "published": "2024-05-31T00:00:00Z",
+    "duration": 3462,
+    "title": "Carga Pronta nos Contentores",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 301
+  },
+  {
     "uuid": "10acfbe9-e5f5-49a9-bbae-2c6e2f34cce8",
     "url": "https://anchor.fm/s/8a3bc524/podcast/play/78670093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-15%2Fa218e6eb-2fbe-93d4-c162-6a31581bff3f.mp3",
     "published": "2023-11-30T09:00:00Z",
@@ -1560,6 +1758,17 @@
     "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
     "episodeSeason": 4,
     "episodeNumber": 8
+  },
+  {
+    "uuid": "10d3fdb5-6d8f-455c-80cb-e28ab11453b9",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/84530995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-25%2Ffb60cbf7-f472-8afc-f533-1a2b1026ca44.mp3",
+    "published": "2024-03-28T09:30:00Z",
+    "duration": 3150,
+    "title": "Início de temporada, na Comic Con (Nuno Mendes)",
+    "playingStatus": 3,
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 5,
+    "episodeNumber": 1
   },
   {
     "uuid": "21bfb06c-b4bb-4918-b98c-6a5f9972bb98",
@@ -1747,6 +1956,28 @@
     "podcastUuid": "de29fd30-49ed-0133-c354-0d11918ab357",
     "episodeSeason": 0,
     "episodeNumber": 0
+  },
+  {
+    "uuid": "2daf1c15-7ead-483b-b919-20ecd86462b3",
+    "url": "https://anchor.fm/s/f14aa460/podcast/play/85237091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-10%2F373862523-44100-2-93f0c4bd0d2da.m4a",
+    "published": "2024-04-11T16:25:27Z",
+    "duration": 2856,
+    "title": "Apresentação do livro \"Uma Azeitona Bordada em Azul\" de Rui Costa",
+    "playingStatus": 3,
+    "podcastUuid": "de631d70-cdab-013c-9b55-0e76eb17ac61",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "7d07a6e7-74af-43f3-ab7c-9f874ab694a5",
+    "url": "https://anchor.fm/s/f14aa460/podcast/play/81773685/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2024-0-25%2F364902188-48000-2-651d9689e6b1f.mp3",
+    "published": "2024-01-27T08:00:00Z",
+    "duration": 3229,
+    "title": "Ep 01 - Vítor Nieves: Práticas de Curadoria",
+    "playingStatus": 3,
+    "podcastUuid": "de631d70-cdab-013c-9b55-0e76eb17ac61",
+    "episodeSeason": 1,
+    "episodeNumber": 1
   },
   {
     "uuid": "13baeb38-e0be-4448-b6dd-fc138309c5c3",
@@ -2458,6 +2689,17 @@
     "published": "2022-03-09T11:00:00Z",
     "duration": 3539,
     "title": "Part 2 of Wes and Scott React to the State of JS",
+    "playingStatus": 3,
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "a4bf1aae-c83f-430b-b40a-5c1ba8ffd916",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_751.mp3?dest-id=532671",
+    "published": "2024-04-03T11:00:00Z",
+    "duration": 3961,
+    "title": "751: UI Components: ShadCN, Tailwind UI, Headless, React Aria, Radix UI",
     "playingStatus": 3,
     "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
     "episodeSeason": 0,

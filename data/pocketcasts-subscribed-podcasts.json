@@ -37,6 +37,18 @@
       "url": "https://podcasters.spotify.com/pod/show/caleb-knueven"
     },
     {
+      "uuid": "1f1720a0-5ab3-013a-d70c-0acc26574db2",
+      "title": "Software Unscripted",
+      "author": "Software Unscripted",
+      "url": "https://feeds.acast.com/public/shows/software-unscripted"
+    },
+    {
+      "uuid": "23c3f270-c5c7-0138-e72c-0acc26574db2",
+      "title": "Sunny 16 Presents",
+      "author": "Sunny 16 Podcasts",
+      "url": "https://sunny16presents.podbean.com/"
+    },
+    {
       "uuid": "26ec90d0-9877-012f-395d-525400c11844",
       "title": "FLOSS Weekly (Audio)",
       "author": "TWiT",
@@ -79,16 +91,34 @@
       "url": "https://linktr.ee/provadecontactopodcast"
     },
     {
+      "uuid": "4a1c2b80-e77a-013b-f4e3-0acc26574db2",
+      "title": "The PetaPixel Podcast",
+      "author": "PetaPixel",
+      "url": "https://petapixel.com/podcast/"
+    },
+    {
       "uuid": "4e697020-7b27-013a-d7c2-0acc26574db2",
       "title": "Admirável Futuro Novo",
       "author": "Sofia Riço Calado",
       "url": "https://admiravelfuturonovo.podbean.com/"
     },
     {
+      "uuid": "50afe7c0-243a-0139-32c0-0acc26574db2",
+      "title": "O Futuro do Futuro",
+      "author": "Hugo Séneca",
+      "url": "http://expresso.pt/podcasts/o-futuro-do-futuro"
+    },
+    {
       "uuid": "532a5990-0c79-0135-ecbb-4114446340cb",
       "title": "P24",
       "author": "PÚBLICO",
       "url": "https://www.publico.pt/p24-podcast"
+    },
+    {
+      "uuid": "53771960-7813-0138-edec-0acc26574db2",
+      "title": "The Contact Sheet",
+      "author": "Kyle McDougall",
+      "url": "http://www.contactsheetpodcast.com/"
     },
     {
       "uuid": "53bb5b70-da78-0137-1e34-0acc26574db2",
@@ -163,6 +193,12 @@
       "url": "http://expresso.pt/podcasts/a-beleza-das-pequenas-coisas"
     },
     {
+      "uuid": "7d8383e0-d62a-013b-f483-0acc26574db2",
+      "title": "Backend Banter",
+      "author": "Boot.dev",
+      "url": "https://www.boot.dev/"
+    },
+    {
       "uuid": "7e8c1420-1460-012e-fddd-00163e1b201c",
       "title": "TSF - Mundo Digital - Podcast",
       "author": "Rui Tukayana, TSF",
@@ -179,6 +215,12 @@
       "title": "The Atlas Obscura Podcast",
       "author": "Stitcher Studios & Atlas Obscura",
       "url": "https://www.stitcher.com/"
+    },
+    {
+      "uuid": "8b549490-46c7-0138-9767-0acc26574db2",
+      "title": "The CSS Podcast",
+      "author": "The CSS Podcast",
+      "url": "https://thecsspodcast.libsyn.com/"
     },
     {
       "uuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
@@ -225,7 +267,7 @@
     {
       "uuid": "adc8f550-aafd-013c-74fe-027201e7e97f",
       "title": "Parecia Tão Boa Pessoa",
-      "author": "johninha",
+      "author": "Maria João e Paula Neves",
       "url": "https://podcasters.spotify.com/pod/show/johninha"
     },
     {
@@ -259,6 +301,12 @@
       "url": "https://linuxtech.pt/"
     },
     {
+      "uuid": "baa6f0b0-b293-013c-a048-0acc26574db2",
+      "title": "Lei da Paridade",
+      "author": "Adriana Cardoso, Maria Castello Branco e Leonor Rosas",
+      "url": "https://expresso.pt/podcasts"
+    },
+    {
       "uuid": "bddfd0b0-18f8-013c-f603-0acc26574db2",
       "title": "Mostly Technical",
       "author": "Ian Landsman and Aaron Francis",
@@ -283,6 +331,12 @@
       "url": "https://manualdousuario.net/series/tecnocracia/"
     },
     {
+      "uuid": "c89d0010-37c8-013b-efb0-0acc26574db2",
+      "title": "How About Tomorrow?",
+      "author": "Adam Elmore & Dax Raad",
+      "url": "https://tomorrow.fm/"
+    },
+    {
       "uuid": "cc555510-1e38-0135-52f8-452518e2d253",
       "title": "Home Assistant Podcast",
       "author": "HK Media",
@@ -304,13 +358,19 @@
       "uuid": "d8fb5c80-1d1e-012f-f6d4-525400c11844",
       "title": "ShopTalk",
       "author": "Chris Coyier & Dave Rupert",
-      "url": "https://shoptalkshow.com/"
+      "url": "https://shoptalkshow.com/series/default-podcast/"
     },
     {
       "uuid": "de29fd30-49ed-0133-c354-0d11918ab357",
       "title": "Aleixo FM",
       "author": "Antena3 - RTP",
       "url": "https://www.rtp.pt/play/p510/aleixo-fm"
+    },
+    {
+      "uuid": "de631d70-cdab-013c-9b55-0e76eb17ac61",
+      "title": "Linhas de perspectiva",
+      "author": "Linhas de Perspectiva",
+      "url": "https://podcasters.spotify.com/pod/show/linhas-de-perspectiva"
     },
     {
       "uuid": "df99c170-264f-0136-c266-7d73a919276a",
