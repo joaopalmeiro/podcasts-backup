@@ -25,6 +25,7 @@
   - https://niquests.readthedocs.io/en/latest/user/authentication.html#passing-a-bearer-token
   - https://niquests.readthedocs.io/en/latest/user/quickstart.html#speedups
   - https://niquests.readthedocs.io/en/latest/api.html#niquests.HTTPError
+  - https://github.com/Ousret/niquests-stats (benchmark)
 - Bruno:
   - https://github.com/usebruno/bruno
   - https://docs.usebruno.com/bru-language-tag-reference.html
