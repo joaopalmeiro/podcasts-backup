@@ -97,6 +97,12 @@
       "url": "https://petapixel.com/podcast/"
     },
     {
+      "uuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+      "title": "Economia dia a dia",
+      "author": "Juliana Simões",
+      "url": "https://expresso.pt/economia"
+    },
+    {
       "uuid": "4e697020-7b27-013a-d7c2-0acc26574db2",
       "title": "Admirável Futuro Novo",
       "author": "Sofia Riço Calado",
@@ -172,7 +178,7 @@
       "uuid": "6a10ce90-2ba3-013a-d617-0acc26574db2",
       "title": "POD Pensar",
       "author": "Deco Proteste",
-      "url": "https://soundcloud.com/pod-pensar"
+      "url": "https://www.deco.proteste.pt/"
     },
     {
       "uuid": "6a73a4d0-5ce0-0132-d641-5f4c86fd3263",
@@ -409,6 +415,12 @@
       "url": "https://umsobrezero.com/episodios/"
     },
     {
+      "uuid": "eed6bab0-be9c-013c-bedc-0e3de8a7ffb3",
+      "title": "GeekHub",
+      "author": "Carlos Ferreira & Inês Ramalho",
+      "url": "https://geekhub.pt/"
+    },
+    {
       "uuid": "ef215300-0914-0136-c264-7d73a919276a",
       "title": "Views on Vue",
       "author": "Charles M Wood",
@@ -428,7 +440,7 @@
     },
     {
       "uuid": "f5413aa0-606d-0136-4e65-69745d675bc7",
-      "title": "Practical AI: Machine Learning, Data Science",
+      "title": "Practical AI: Machine Learning, Data Science, LLM",
       "author": "Changelog Media",
       "url": "https://changelog.com/practicalai"
     },
