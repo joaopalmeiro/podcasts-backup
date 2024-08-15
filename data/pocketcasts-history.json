@@ -1,5 +1,16 @@
 [
   {
+    "uuid": "98520246-a7e8-4627-a86c-4f6f2d63f9da",
+    "url": "https://www.cruzamentopodcast.com/podcast-download/2488/89-rui-soares-e-filipe-freitas-pinto-transformacao-digital-na-saude-inovacao-e-desafios-pt.mp3",
+    "published": "2024-08-13T04:45:00Z",
+    "duration": 1696,
+    "title": "89: Rui Soares e Filipe Freitas Pinto: Transformação Digital na Saúde: Inovação e Desafios [PT]",
+    "playingStatus": 3,
+    "podcastUuid": "077db710-df59-0138-e7b8-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
     "uuid": "17dd1833-3437-44fa-91e4-b1947d038532",
     "url": "https://media.blubrry.com/heavybit/d3aeja1uqhkije.cloudfront.net/podcasts/jamstack-radio/20210121-jamstack-radio-071.mp3",
     "published": "2021-02-01T10:00:00Z",
@@ -253,6 +264,17 @@
     "episodeNumber": 40
   },
   {
+    "uuid": "6fdadb14-3f96-4323-9ab4-c0c9ce31c667",
+    "url": "https://anchor.fm/s/6d1ee34/podcast/play/90425524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-14%2F98e92d83-0e79-f8e9-56a1-a4b7a9f4c60f.mp3",
+    "published": "2024-08-14T11:02:28Z",
+    "duration": 798,
+    "title": "Anthropic lança o Claude no Brasil, com foco em uso corporativo; Vazamento de dados atinge 39 milhões de registros de brasileiros - DaTa Hackers News #42",
+    "playingStatus": 3,
+    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+    "episodeSeason": 2,
+    "episodeNumber": 42
+  },
+  {
     "uuid": "ff2dbd23-266b-4ad3-af13-d0839f5bde83",
     "url": "https://anchor.fm/s/6d1ee34/podcast/play/50299371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-8%2Fc4596d51-7bac-77d2-ca0d-66c366307782.mp3",
     "published": "2022-04-08T12:58:45Z",
@@ -427,6 +449,50 @@
     "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
     "episodeSeason": 5,
     "episodeNumber": 3
+  },
+  {
+    "uuid": "06f38609-6d90-4781-ba7f-96b948749d0f",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/a81f3550-4de6-4d30-93cb-b1c40105b10c/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-08-06T17:00:00Z",
+    "duration": 304,
+    "title": "O que causou a desvalorização das bolsas mundiais, esta segunda-feira?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "20f4d5e8-0bc9-4d92-a73c-d22ec1e1091b",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/d248867a-f4b9-4009-84ec-b1c701035a4b/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-08-09T17:00:00Z",
+    "duration": 305,
+    "title": "Como funcionam as fraudes nas criptomoedas?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "60136810-ebec-4fd8-aeac-d3012b204cbe",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/57471710-65b3-4230-b4ba-b1cb00e51ac6/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-08-13T17:00:00Z",
+    "duration": 269,
+    "title": "Os portugueses estão a desistir do Algarve no verão?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "97df6c08-6840-4b90-b129-e6540b1e6b0c",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/7b1b722c-69d2-47fb-92f8-b1c50116407c/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-08-07T17:00:00Z",
+    "duration": 296,
+    "title": "Como tem evoluído o mercado de trabalho no segundo trimestre?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "fd2779d4-16d8-4fae-aea5-d25f5f544fbe",
@@ -1017,6 +1083,17 @@
     "published": "2024-02-22T13:00:00Z",
     "duration": 1968,
     "title": "StyleX with Naman Goel",
+    "playingStatus": 3,
+    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "5613ed8b-f36b-43eb-883f-e1cec94226e5",
+    "url": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/563f2598-1c75-46ae-800f-48f0d9a46dcf.mp3",
+    "published": "2024-08-07T12:00:00Z",
+    "duration": 1777,
+    "title": "AI for React developers and beyond with Alexandra Spalato",
     "playingStatus": 3,
     "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
     "episodeSeason": 4,
@@ -2330,6 +2407,17 @@
     "podcastUuid": "ec7dd090-2966-0138-9ff7-0acc26574db2",
     "episodeSeason": 0,
     "episodeNumber": 73
+  },
+  {
+    "uuid": "c942b471-b059-439d-9d5c-2d92dd70bf9e",
+    "url": "https://pinecast.com/listen/32c9999f-1d5b-4527-beb0-081dde7b83d3.mp3?source=rss&ext=asset.mp3",
+    "published": "2024-02-04T13:49:51Z",
+    "duration": 1599,
+    "title": "Episódio Zero",
+    "playingStatus": 3,
+    "podcastUuid": "eed6bab0-be9c-013c-bedc-0e3de8a7ffb3",
+    "episodeSeason": 0,
+    "episodeNumber": 0
   },
   {
     "uuid": "02c8e492-2fd5-414c-80e4-95d401c494b9",
