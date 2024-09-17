@@ -2,11 +2,7 @@
   "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
   "mypy-type-checker.importStrategy": "fromEnvironment",
 
-  "explorer.fileNesting.enabled": true,
-  "explorer.fileNesting.expand": true,
-  "explorer.fileNesting.patterns": {
-    "README.md": "NOTES.md",
-    "requirements.txt": ".python-version, mypy.ini, ruff.toml",
-    ".env": ".env.example"
+  "files.readonlyInclude": {
+    "deprecated/**/{*.ini,*.json,*.toml}": true
   }
 }

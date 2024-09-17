@@ -2,12 +2,13 @@
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![Checked with mypy](https://www.mypy-lang.org/static/mypy_badge.svg)](https://mypy-lang.org/)
 
 Script to download Pocket Casts podcast history via the Web Player API.
 
 ## Development
 
-Install [pyenv](https://github.com/pyenv/pyenv) (if necessary).
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/) (if necessary).
 
 Generate the `.env` file and set the environment variables:
 
@@ -16,15 +17,15 @@ cp .env.example .env && cp .env.example Pocket\ Casts\ Web\ Player\ API/.env
 ```
 
 ```bash
-pyenv install && pyenv versions
+uv python install
 ```
 
 ```bash
-pip install uv==0.1.24 && uv --version
+uv venv .venv --verbose
 ```
 
 ```bash
-uv venv .venv
+cat .venv/pyvenv.cfg
 ```
 
 ```bash
@@ -45,6 +46,10 @@ uv pip list --strict
 
 ```bash
 uv pip check --verbose
+```
+
+```bash
+uv pip tree --show-version-specifiers --strict
 ```
 
 ```bash

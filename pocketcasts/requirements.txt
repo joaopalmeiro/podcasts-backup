@@ -1,6 +1,6 @@
 environs==11.0.0
 gaveta==0.1.1
-mypy==1.9.0
+mypy==1.10.0
 niquests==3.5.3
 pydantic==2.6.3
-ruff==0.3.4
+ruff==0.5.4
