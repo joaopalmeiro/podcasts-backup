@@ -275,6 +275,28 @@
     "episodeNumber": 42
   },
   {
+    "uuid": "b1f143c4-ab18-480b-b553-c484464a02b9",
+    "url": "https://anchor.fm/s/6d1ee34/podcast/play/90705527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-21%2Fe121a500-1fa4-6e7a-0155-8f440be932aa.mp3",
+    "published": "2024-08-21T11:15:20Z",
+    "duration": 964,
+    "title": "⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Ex-CEO da Google diz que Google está atrasado em IA devido o trabalho remoto ; Elon Musk Grok-2 e gera polemica; ⁠Taxis da Waymo começam a buzinar de madrugada- Data Hackers News #43",
+    "playingStatus": 3,
+    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+    "episodeSeason": 2,
+    "episodeNumber": 43
+  },
+  {
+    "uuid": "c8f561a3-70c9-4911-b66d-03c7160f88c5",
+    "url": "https://anchor.fm/s/6d1ee34/podcast/play/90969984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-28%2F709ce8f2-f14e-7650-8858-d0e1819e2773.mp3",
+    "published": "2024-08-28T10:00:00Z",
+    "duration": 1262,
+    "title": "⁠Especialistas contestam o Amazona IA⁠; ⁠MIT lança banco de dados com mais 700 riscos gerados por IA⁠; ⁠Apple lança iPhone com IA generativa no próximo mês⁠ - Data Hackers News #44",
+    "playingStatus": 3,
+    "podcastUuid": "39e378c0-9e83-0136-7b93-27f978dac4db",
+    "episodeSeason": 2,
+    "episodeNumber": 44
+  },
+  {
     "uuid": "ff2dbd23-266b-4ad3-af13-d0839f5bde83",
     "url": "https://anchor.fm/s/6d1ee34/podcast/play/50299371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-8%2Fc4596d51-7bac-77d2-ca0d-66c366307782.mp3",
     "published": "2022-04-08T12:58:45Z",
@@ -396,6 +418,17 @@
     "episodeNumber": 2
   },
   {
+    "uuid": "77d2a157-db33-4b89-a20d-6fbd1552490a",
+    "url": "https://anchor.fm/s/65b1cf78/podcast/play/91089622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-30%2F63f52d4e-f112-3401-65ea-ca8a4d6cb67b.mp3",
+    "published": "2024-08-31T08:00:00Z",
+    "duration": 4133,
+    "title": "T06E01 - Convidados: Portuguese Street Photography Collective",
+    "playingStatus": 3,
+    "podcastUuid": "3bb1b870-8a27-0137-f541-17da1cd0d495",
+    "episodeSeason": 6,
+    "episodeNumber": 1
+  },
+  {
     "uuid": "7b5c5b4c-d99b-454c-93ba-efae8e4ca163",
     "url": "https://anchor.fm/s/65b1cf78/podcast/play/73096805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-6%2F76236d7c-ef56-9fca-bdd3-84d8fde8a478.mp3",
     "published": "2023-07-08T07:20:00Z",
@@ -495,6 +528,50 @@
     "episodeNumber": 0
   },
   {
+    "uuid": "ad7cbc5b-ac3f-4ac2-92e0-db4aea9409f3",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/35e9e579-7369-42e9-9151-b1ce0101cf29/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-08-16T17:00:00Z",
+    "duration": 269,
+    "title": "Estamos a presenciar uma guerra aberta entre supermercados e fornecedores?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "c31167ef-8b66-47ad-ad5e-bce54db29d80",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/56c344f2-3065-4912-85c4-b1df0111702c/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-09-02T17:00:00Z",
+    "duration": 234,
+    "title": "Presidente da Lufthansa em Lisboa: a privatização da TAP está próxima?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "c402e310-ac5e-42a6-8bd2-26d8aa538b91",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/f41d1b8f-919f-4e85-bd2c-b1a901048cc4/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-07-10T17:00:00Z",
+    "duration": 266,
+    "title": "Quão comprometidas estão as empresas portuguesas com a inovação?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "d4511582-dad9-487c-809b-59dc4e0535d9",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/d9b1d3db-7abe-4b69-a407-b19600fe5783/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-06-21T17:00:00Z",
+    "duration": 285,
+    "title": "O que nos dizem os novos dados sobre o preço das casas em Portugal?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
     "uuid": "fd2779d4-16d8-4fae-aea5-d25f5f544fbe",
     "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/f5eabf57-60ef-4344-99a9-b1c600f99128/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
     "published": "2024-08-08T17:00:00Z",
@@ -548,6 +625,39 @@
     "podcastUuid": "50afe7c0-243a-0139-32c0-0acc26574db2",
     "episodeSeason": 0,
     "episodeNumber": 0
+  },
+  {
+    "uuid": "004337d0-15e0-4651-a46f-16ac3a83fc8a",
+    "url": "https://traffic.omny.fm/d/clips/763f22a5-d3d9-4f9c-913e-b05701387d6e/7e76e382-02a8-40df-8932-b05b00b05455/4fada884-f94b-4790-a587-b1c700f5e2a3/audio.mp3?utm_source=Podcast&in_playlist=28995c9b-446d-468d-b317-b05b00b0547b",
+    "published": "2024-08-26T05:00:00Z",
+    "duration": 844,
+    "title": "Da praia à linha do Douro: as melhores sugestões de viagens de comboio em Portugal",
+    "playingStatus": 3,
+    "podcastUuid": "532a5990-0c79-0135-ecbb-4114446340cb",
+    "episodeSeason": 2024,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "01cdfe73-d8b4-4f1b-bc4f-abd25d09f82b",
+    "url": "https://traffic.omny.fm/d/clips/763f22a5-d3d9-4f9c-913e-b05701387d6e/7e76e382-02a8-40df-8932-b05b00b05455/0fa3fcb0-6fba-49d3-a520-b1d201704e66/audio.mp3?utm_source=Podcast&in_playlist=28995c9b-446d-468d-b317-b05b00b0547b",
+    "published": "2024-08-21T05:00:00Z",
+    "duration": 1162,
+    "title": "O que está em causa com a proposta de referendo à imigração do Chega?",
+    "playingStatus": 3,
+    "podcastUuid": "532a5990-0c79-0135-ecbb-4114446340cb",
+    "episodeSeason": 2024,
+    "episodeNumber": 161
+  },
+  {
+    "uuid": "22a647ef-5b6b-4494-83cb-fd40839cbe0f",
+    "url": "https://traffic.omny.fm/d/clips/763f22a5-d3d9-4f9c-913e-b05701387d6e/7e76e382-02a8-40df-8932-b05b00b05455/db5717e8-b967-4506-875c-b1ca01812d58/audio.mp3?utm_source=Podcast&in_playlist=28995c9b-446d-468d-b317-b05b00b0547b",
+    "published": "2024-08-16T05:00:00Z",
+    "duration": 810,
+    "title": "Sem séries para ver? Conheça as sugestões do PÚBLICO",
+    "playingStatus": 3,
+    "podcastUuid": "532a5990-0c79-0135-ecbb-4114446340cb",
+    "episodeSeason": 2024,
+    "episodeNumber": 158
   },
   {
     "uuid": "6eccc212-7bed-486d-8b42-bda904ca785b",
@@ -1089,6 +1199,17 @@
     "episodeNumber": 0
   },
   {
+    "uuid": "232f6f96-fbe5-431b-8ac8-93507c78e6fe",
+    "url": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/9dc2e818-d2bb-4881-82fe-89491843b8d4.mp3",
+    "published": "2024-08-15T12:00:00Z",
+    "duration": 1843,
+    "title": "It's 2024: Let's talk about Atomic CSS with Matheus Albuquerque",
+    "playingStatus": 3,
+    "podcastUuid": "8f66ccb0-0e26-0139-41c4-0acc26574db2",
+    "episodeSeason": 4,
+    "episodeNumber": 0
+  },
+  {
     "uuid": "5613ed8b-f36b-43eb-883f-e1cec94226e5",
     "url": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/563f2598-1c75-46ae-800f-48f0d9a46dcf.mp3",
     "published": "2024-08-07T12:00:00Z",
@@ -1408,6 +1529,17 @@
     "episodeNumber": 307
   },
   {
+    "uuid": "1202bf6b-7f29-479e-b533-c164bceeecb5",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e311/e311.mp3",
+    "published": "2024-08-15T00:00:00Z",
+    "duration": 3953,
+    "title": "Fábio Fontes & Rafael Gonçalves",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 311
+  },
+  {
     "uuid": "150cbfe4-622f-480b-8003-4359b112f451",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e285/e285.mp3",
     "published": "2024-02-08T00:00:00Z",
@@ -1507,6 +1639,17 @@
     "episodeNumber": 229
   },
   {
+    "uuid": "2a8a1793-88d4-4e22-a9e8-9536a46b4318",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e315/e315.mp3",
+    "published": "2024-09-12T00:00:00Z",
+    "duration": 3589,
+    "title": "Instalaram...Todos!",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 315
+  },
+  {
     "uuid": "2c8a8687-4102-4a5a-b70d-a5fb9e5b5ad7",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e228/e228.mp3",
     "published": "2023-01-05T00:00:00Z",
@@ -1604,6 +1747,17 @@
     "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
     "episodeSeason": 0,
     "episodeNumber": 288
+  },
+  {
+    "uuid": "4f586470-2655-46ef-a4bf-d3c9065b9ec1",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e312/e312.mp3",
+    "published": "2024-08-22T00:00:00Z",
+    "duration": 4568,
+    "title": "Nuno do Carmo",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 312
   },
   {
     "uuid": "4f8bf959-e21a-4955-96a7-8bd76076f8df",
@@ -1771,6 +1925,17 @@
     "episodeNumber": 279
   },
   {
+    "uuid": "92b20d45-2eb4-4058-a426-d8d94d74f325",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e314/e314.mp3",
+    "published": "2024-09-05T00:00:00Z",
+    "duration": 3397,
+    "title": "Rute Correia II",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 314
+  },
+  {
     "uuid": "9ad69b63-5d9e-46f5-a28a-b98576a438be",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e232/e232.mp3",
     "published": "2023-02-02T00:00:00Z",
@@ -1923,6 +2088,17 @@
     "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
     "episodeSeason": 0,
     "episodeNumber": 225
+  },
+  {
+    "uuid": "d7887723-0bbc-4322-bf93-6e49f71d842f",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e313/e313.mp3",
+    "published": "2024-08-29T00:00:00Z",
+    "duration": 3981,
+    "title": "Rute Correia I",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 313
   },
   {
     "uuid": "d7aa8f1e-f898-45bc-81e0-276274642414",
@@ -2079,6 +2255,17 @@
     "episodeNumber": 0
   },
   {
+    "uuid": "4931763e-0590-4d9d-a181-24abcd736a46",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/86433633/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-7%2F2c8da86f-e820-5601-a619-9cd8f86296bb.mp3",
+    "published": "2024-05-09T08:30:00Z",
+    "duration": 7680,
+    "title": "10 anos, 10 jogos (IGN Portugal)",
+    "playingStatus": 3,
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 5,
+    "episodeNumber": 7
+  },
+  {
     "uuid": "52ba7e76-7dda-4c05-bf2b-198f96de4bca",
     "url": "https://anchor.fm/s/8a3bc524/podcast/play/78671469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-15%2F58cd4687-8469-4df0-d7bb-1d5fc8c198fa.mp3",
     "published": "2023-12-07T09:00:00Z",
@@ -2121,6 +2308,28 @@
     "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
     "episodeSeason": 5,
     "episodeNumber": 12
+  },
+  {
+    "uuid": "93fb0f26-3879-49fc-8433-820da765551b",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/84727291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-29%2Fad8cdaac-d9fe-a312-d091-7fbc2b32427b.mp3",
+    "published": "2024-04-11T08:30:00Z",
+    "duration": 4741,
+    "title": "O bom, o mau e a emulação (The Games Tome)",
+    "playingStatus": 3,
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 5,
+    "episodeNumber": 3
+  },
+  {
+    "uuid": "bcdd1415-e3b9-439b-a6f6-1aec499de78f",
+    "url": "https://anchor.fm/s/8a3bc524/podcast/play/84533935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-25%2Ffff09968-2f66-b8aa-47fb-bb0d3759d607.mp3",
+    "published": "2024-04-04T08:30:00Z",
+    "duration": 4697,
+    "title": "A nova crise dos videojogos (Pedro Vieira)",
+    "playingStatus": 3,
+    "podcastUuid": "c20543c0-9891-013a-d857-0acc26574db2",
+    "episodeSeason": 5,
+    "episodeNumber": 2
   },
   {
     "uuid": "be408fb4-76ca-4211-895b-73c4932ce410",
@@ -2695,6 +2904,17 @@
     "episodeNumber": 120
   },
   {
+    "uuid": "408a0fd6-d460-4bbf-8037-006dba349655",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/91355870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-6%2F385899723-44100-2-c0a71ee123b6f.mp3",
+    "published": "2024-09-06T00:56:07Z",
+    "duration": 11899,
+    "title": "Glitch Gamecast Ep. 179 - Frescos e fofos!",
+    "playingStatus": 3,
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 179
+  },
+  {
     "uuid": "42b3ea5c-9a09-42a6-a66c-0d0250701f79",
     "url": "https://anchor.fm/s/39e309d4/podcast/play/79857984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2Fa9990a58-cc0c-79fb-2924-ec2c77c2626d.mp3",
     "published": "2023-12-15T01:26:55Z",
@@ -3096,6 +3316,17 @@
     "published": "2022-12-14T11:00:00Z",
     "duration": 4195,
     "title": "JavaScript in 2022",
+    "playingStatus": 3,
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "c1fb657c-0261-4fda-8b25-0822c97bcea1",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_817.mp3?dest-id=532671",
+    "published": "2024-09-04T11:00:00Z",
+    "duration": 3433,
+    "title": "817: You Need These 30 Apps - PART 1",
     "playingStatus": 3,
     "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
     "episodeSeason": 0,
