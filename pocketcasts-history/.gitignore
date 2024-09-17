@@ -1,14 +1,15 @@
-.DS_Store
-.venv/
-.mypy_cache/
+# .ruff_cache/: https://docs.astral.sh/ruff/settings/#cache-dir
+
 __pycache__/
-.env
-script.log
-
-# https://docs.astral.sh/ruff/settings/#cache-dir
+.mypy_cache/
 .ruff_cache/
+.venv/
 
+.DS_Store
+.env
+
+episodes.json
 history.json
 login.json
+script.log
 subscriptions.json
-episodes.json
