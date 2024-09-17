@@ -106,6 +106,12 @@ uv pip sync requirements.txt
 uv pip sync --reinstall --refresh --strict requirements.txt
 ```
 
+### Clean slate
+
+```bash
+rm -rf __pycache__/ .mypy_cache/ .ruff_cache/ .venv/ script.log
+```
+
 ## Snippets
 
 ```python
