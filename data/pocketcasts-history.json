@@ -309,7 +309,7 @@
   },
   {
     "uuid": "1d328007-3fd0-4890-be85-af7f61addaff",
-    "url": "https://www.buzzsprout.com/2226499/14572512-news-hono-v4-enters-the-meta-framework-arena-storybook-8-supports-rscs-and-apple-shuts-off-pwas-in-the-eu.mp3",
+    "url": "https://www.buzzsprout.com/2226499/episodes/14572512-news-hono-v4-enters-the-meta-framework-arena-storybook-8-supports-rscs-and-apple-shuts-off-pwas-in-the-eu.mp3",
     "published": "2024-02-26T11:00:00Z",
     "duration": 2098,
     "title": "News: Hono v4 Enters the Meta Framework Arena, Storybook 8 Supports RSCs, and Apple Shuts Off PWAs in the EU",
@@ -320,7 +320,7 @@
   },
   {
     "uuid": "4d376a1d-e985-4942-a129-98fea1f4bfba",
-    "url": "https://www.buzzsprout.com/2226499/14425891-interview-million-js-v3-debuts-with-aiden-bai-and-tobiloba-adedeji.mp3",
+    "url": "https://www.buzzsprout.com/2226499/episodes/14425891-interview-million-js-v3-debuts-with-aiden-bai-and-tobiloba-adedeji.mp3",
     "published": "2024-02-02T11:00:00Z",
     "duration": 1128,
     "title": "Interview: Million.js v3 Debuts with Aiden Bai and Tobiloba Adedeji",
@@ -331,7 +331,7 @@
   },
   {
     "uuid": "8f27556c-c976-4b85-bcfd-c5d7e02415cf",
-    "url": "https://www.buzzsprout.com/2226499/14619451-news-npm-has-competition-parcel-adds-macros-and-browserstack-gets-sued.mp3",
+    "url": "https://www.buzzsprout.com/2226499/episodes/14619451-news-npm-has-competition-parcel-adds-macros-and-browserstack-gets-sued.mp3",
     "published": "2024-03-04T11:00:00Z",
     "duration": 2066,
     "title": "News: npm Has Competition, Parcel Adds Macros, and BrowserStack Gets Sued",
@@ -342,7 +342,7 @@
   },
   {
     "uuid": "9b9c71da-6385-4101-bbb7-3d8fa4ca9179",
-    "url": "https://www.buzzsprout.com/2226499/14707463-news-astro-adds-databases-pigment-css-and-speedometer-3-0-browser-testing.mp3",
+    "url": "https://www.buzzsprout.com/2226499/episodes/14707463-news-astro-adds-databases-pigment-css-and-speedometer-3-0-browser-testing.mp3",
     "published": "2024-03-18T10:00:00Z",
     "duration": 2124,
     "title": "News: Astro Adds Databases, Pigment CSS, and Speedometer 3.0 Browser Testing",
@@ -506,6 +506,17 @@
     "episodeNumber": 0
   },
   {
+    "uuid": "4dc6d5f4-0e20-4cb1-afb3-e547250e3729",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/dc6747e9-c6ad-4b7d-bab6-b1f801411f8d/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
+    "published": "2024-09-28T08:00:00Z",
+    "duration": 918,
+    "title": "Inteligência artificial nas empresas: os investimentos podem trazer prejuízos?",
+    "playingStatus": 3,
+    "podcastUuid": "4cd1b630-9ea6-013b-f35e-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
     "uuid": "60136810-ebec-4fd8-aeac-d3012b204cbe",
     "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/2b40e5ee-c5d5-41f0-8d7a-afbd0132c937/57471710-65b3-4230-b4ba-b1cb00e51ac6/audio.mp3?utm_source=Podcast&in_playlist=6184058c-dc70-43b9-88a5-afbd0135a817",
     "published": "2024-08-13T17:00:00Z",
@@ -605,6 +616,17 @@
     "episodeNumber": 3
   },
   {
+    "uuid": "31ad09d9-d1aa-41e6-b2fa-5fa6590056fb",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/5e78bac9-5b13-419a-8e5a-b1cc00b70a36/a03b3f93-a8fa-494d-a097-b1d100e09d1a/audio.mp3?utm_source=Podcast&in_playlist=88b5c308-ff0f-4adf-8d01-ad8e00d11026",
+    "published": "2024-10-04T05:30:00Z",
+    "duration": 889,
+    "title": "Qual é o objetivo da aprendizagem num mundo liderado pela IA?",
+    "playingStatus": 3,
+    "podcastUuid": "50afe7c0-243a-0139-32c0-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 4
+  },
+  {
     "uuid": "36994ca3-b431-43be-a9a7-e7927fa067f7",
     "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/4b9bdaab-3c0c-43c6-bf3e-ad8e00d1101c/5e3bd00c-d343-462f-b045-b14c00e85996/audio.mp3?utm_source=Podcast&in_playlist=88b5c308-ff0f-4adf-8d01-ad8e00d11026",
     "published": "2024-04-09T09:05:45Z",
@@ -616,6 +638,17 @@
     "episodeNumber": 0
   },
   {
+    "uuid": "641b9d64-1cd6-4a19-950e-cd1dcfd5e917",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/5e78bac9-5b13-419a-8e5a-b1cc00b70a36/ada6289b-da20-405b-b1c9-b1d100dd3f9e/audio.mp3?utm_source=Podcast&in_playlist=88b5c308-ff0f-4adf-8d01-ad8e00d11026",
+    "published": "2024-09-20T05:30:00Z",
+    "duration": 876,
+    "title": "Como é que a IA está a afetar a forma como interagimos socialmente",
+    "playingStatus": 3,
+    "podcastUuid": "50afe7c0-243a-0139-32c0-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 2
+  },
+  {
     "uuid": "b5acfc65-7483-4ecd-86c0-0baa814998fd",
     "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/4b9bdaab-3c0c-43c6-bf3e-ad8e00d1101c/a795f911-1db0-4443-a19b-b19900c494e6/audio.mp3?utm_source=Podcast&in_playlist=88b5c308-ff0f-4adf-8d01-ad8e00d11026",
     "published": "2024-06-25T06:30:00Z",
@@ -625,6 +658,17 @@
     "podcastUuid": "50afe7c0-243a-0139-32c0-0acc26574db2",
     "episodeSeason": 0,
     "episodeNumber": 0
+  },
+  {
+    "uuid": "c8138e5e-4635-413a-b987-ab365e99cf3b",
+    "url": "https://traffic.omny.fm/d/clips/8c0a4104-a688-4e57-91fd-ad7b00d5dddd/5e78bac9-5b13-419a-8e5a-b1cc00b70a36/8ce50f51-fef2-42de-83a9-b1d100e05514/audio.mp3?utm_source=Podcast&in_playlist=88b5c308-ff0f-4adf-8d01-ad8e00d11026",
+    "published": "2024-09-27T05:30:00Z",
+    "duration": 840,
+    "title": "O impacto da IA nos nossos empregos",
+    "playingStatus": 3,
+    "podcastUuid": "50afe7c0-243a-0139-32c0-0acc26574db2",
+    "episodeSeason": 0,
+    "episodeNumber": 3
   },
   {
     "uuid": "004337d0-15e0-4651-a46f-16ac3a83fc8a",
@@ -694,7 +738,7 @@
   },
   {
     "uuid": "1a3bef76-1aa4-40b6-8b1b-c2b79893d62f",
-    "url": "https://www.buzzsprout.com/1076782/14706394-dar-e-receber-feedback-sem-conflitos-ep-111.mp3",
+    "url": "https://www.buzzsprout.com/1076782/episodes/14706394-dar-e-receber-feedback-sem-conflitos-ep-111.mp3",
     "published": "2024-03-20T00:00:00Z",
     "duration": 760,
     "title": "Dar e receber feedback sem conflitos | Ep. 111",
@@ -705,7 +749,7 @@
   },
   {
     "uuid": "332fc925-a027-4fc9-902f-cd1bfceeec29",
-    "url": "https://www.buzzsprout.com/1076782/14619426-fixed-vs-growth-mindset-qual-a-tua-mentalidade-ep-110.mp3",
+    "url": "https://www.buzzsprout.com/1076782/episodes/14619426-fixed-vs-growth-mindset-qual-a-tua-mentalidade-ep-110.mp3",
     "published": "2024-03-13T00:00:00Z",
     "duration": 560,
     "title": "Fixed vs. Growth Mindset: Qual a tua mentalidade? | Ep. 110",
@@ -716,7 +760,7 @@
   },
   {
     "uuid": "3d127306-0c63-4bce-9c94-49b38d2a878b",
-    "url": "https://www.buzzsprout.com/1076782/14349109-vale-a-pena-candidatar-me-se-nao-cumpro-os-requisitos-ep-107.mp3",
+    "url": "https://www.buzzsprout.com/1076782/episodes/14349109-vale-a-pena-candidatar-me-se-nao-cumpro-os-requisitos-ep-107.mp3",
     "published": "2024-02-21T00:00:00Z",
     "duration": 774,
     "title": "Vale a pena candidatar-me se não cumpro os requisitos? | Ep. 107",
@@ -727,7 +771,7 @@
   },
   {
     "uuid": "4550c21f-9f2a-437e-9a63-93cecd71f4e6",
-    "url": "https://www.buzzsprout.com/1076782/13742083-managing-up-aprende-a-gerir-o-teu-chefe-ep-91.mp3",
+    "url": "https://www.buzzsprout.com/1076782/episodes/13742083-managing-up-aprende-a-gerir-o-teu-chefe-ep-91.mp3",
     "published": "2023-11-01T00:00:00Z",
     "duration": 879,
     "title": "Managing Up: Aprende a Gerir o teu Chefe | Ep. 91",
@@ -738,7 +782,7 @@
   },
   {
     "uuid": "4bdba8bb-f4f2-48dd-8637-86c8e63e8d33",
-    "url": "https://www.buzzsprout.com/1076782/14619389-perfeccionismo-qualidade-ou-defeito-ep-109.mp3",
+    "url": "https://www.buzzsprout.com/1076782/episodes/14619389-perfeccionismo-qualidade-ou-defeito-ep-109.mp3",
     "published": "2024-03-06T00:00:00Z",
     "duration": 667,
     "title": "Perfeccionismo: Qualidade ou defeito? | Ep. 109",
@@ -749,7 +793,7 @@
   },
   {
     "uuid": "5931cac7-bc1c-4834-8860-4247dd6b864e",
-    "url": "https://www.buzzsprout.com/1076782/14581453-2-dicas-para-gestores-de-equipas-eficazes-ep-108.mp3",
+    "url": "https://www.buzzsprout.com/1076782/episodes/14581453-2-dicas-para-gestores-de-equipas-eficazes-ep-108.mp3",
     "published": "2024-02-28T00:00:00Z",
     "duration": 718,
     "title": "2 dicas para gestores de equipas eficazes | Ep. 108",
@@ -760,7 +804,7 @@
   },
   {
     "uuid": "946244bf-f007-43b4-8f49-407a71fe0524",
-    "url": "https://www.buzzsprout.com/1076782/14079689-como-avaliar-uma-proposta-de-emprego-ep-97.mp3",
+    "url": "https://www.buzzsprout.com/1076782/episodes/14079689-como-avaliar-uma-proposta-de-emprego-ep-97.mp3",
     "published": "2023-12-13T00:00:00Z",
     "duration": 879,
     "title": "Como avaliar uma proposta de emprego | Ep. 97",
@@ -771,7 +815,7 @@
   },
   {
     "uuid": "9672c18e-3381-4f76-86a5-9377277f5d15",
-    "url": "https://www.buzzsprout.com/1076782/14348599-como-negociar-uma-reducao-de-horario-ep-103.mp3",
+    "url": "https://www.buzzsprout.com/1076782/episodes/14348599-como-negociar-uma-reducao-de-horario-ep-103.mp3",
     "published": "2024-01-24T00:00:00Z",
     "duration": 854,
     "title": "Como negociar uma redução de horário | Ep. 103",
@@ -1298,6 +1342,17 @@
     "episodeNumber": 0
   },
   {
+    "uuid": "06f22127-998d-4cd9-a901-ccc397a5c7e0",
+    "url": "https://anchor.fm/s/19213a4/podcast/play/91820154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-17%2F55cf2544-bb94-1119-f8f7-0123430d4d8b.mp3",
+    "published": "2024-09-17T11:15:41Z",
+    "duration": 11041,
+    "title": "Split-Chicken S7E03 - Preço justo da PS5 Pro? | IA nos videojogos | Microsoft volta a despedir",
+    "playingStatus": 3,
+    "podcastUuid": "ac001520-6a4c-0137-f267-1d245fc5f9cf",
+    "episodeSeason": 7,
+    "episodeNumber": 3
+  },
+  {
     "uuid": "1424ea9c-2b2f-40d0-bab2-d2a8ff7f1bac",
     "url": "https://anchor.fm/s/19213a4/podcast/play/81044970/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-9%2F1521e734-4383-5a85-53d6-38d0e952638b.mp3",
     "published": "2024-01-09T22:22:54Z",
@@ -1496,6 +1551,17 @@
     "episodeNumber": 87
   },
   {
+    "uuid": "014b31e0-f566-4f8c-8041-21acd0577acb",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e318/e318.mp3",
+    "published": "2024-10-03T00:00:00Z",
+    "duration": 3811,
+    "title": "Impressões Digitais.",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 318
+  },
+  {
     "uuid": "01a390d5-88f0-48e9-9617-f60c3cb4b464",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e226/e226.mp3",
     "published": "2022-12-22T00:00:00Z",
@@ -1527,6 +1593,17 @@
     "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
     "episodeSeason": 0,
     "episodeNumber": 307
+  },
+  {
+    "uuid": "1123856c-0a43-4930-8672-f0849feb1160",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e316/e316.mp3",
+    "published": "2024-09-19T00:00:00Z",
+    "duration": 3368,
+    "title": "Meu Velho, Meu Amigo.",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 316
   },
   {
     "uuid": "1202bf6b-7f29-479e-b533-c164bceeecb5",
@@ -2145,6 +2222,17 @@
     "episodeNumber": 220
   },
   {
+    "uuid": "e865f253-da27-4a42-af77-7fd8c42918cd",
+    "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e317/e317.mp3",
+    "published": "2024-09-26T00:00:00Z",
+    "duration": 3561,
+    "title": "Paletes de Pestanas à Bruta.",
+    "playingStatus": 3,
+    "podcastUuid": "c0172780-38bc-0135-52fa-452518e2d253",
+    "episodeSeason": 0,
+    "episodeNumber": 317
+  },
+  {
     "uuid": "e8f985cf-d780-422f-858c-cc76ae168e3f",
     "url": "https://media.blubrry.com/ubuntupt/archive.org/download/pup-e286/e286.mp3",
     "published": "2024-02-15T00:00:00Z",
@@ -2619,7 +2707,7 @@
   },
   {
     "uuid": "c942b471-b059-439d-9d5c-2d92dd70bf9e",
-    "url": "https://pinecast.com/listen/32c9999f-1d5b-4527-beb0-081dde7b83d3.mp3?source=rss&ext=asset.mp3",
+    "url": "https://op3.dev/e/pinecast.com/listen/32c9999f-1d5b-4527-beb0-081dde7b83d3.mp3?source=rss&aid=01858a88-1575-4b09-83ef-0f62f7181bb8.mp3",
     "published": "2024-02-04T13:49:51Z",
     "duration": 1599,
     "title": "Episódio Zero",
@@ -2893,6 +2981,17 @@
     "episodeNumber": 154
   },
   {
+    "uuid": "1916d1a1-569d-4f9c-9c4c-d93d63e16eaa",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/91940840/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-19%2F386667666-44100-2-b43c0d45b62d4.mp3",
+    "published": "2024-09-19T22:59:33Z",
+    "duration": 5922,
+    "title": "Glitch Gamecast Ep. 181 - Um escudeiro dos valentes",
+    "playingStatus": 3,
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 181
+  },
+  {
     "uuid": "3a5a00a6-5ba0-4081-8cdd-459baade0e75",
     "url": "https://anchor.fm/s/39e309d4/podcast/play/64013741/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-29%2Ffe48658c-e499-9738-00cf-6d26569d364b.mp3",
     "published": "2023-01-30T12:25:00Z",
@@ -2937,6 +3036,17 @@
     "episodeNumber": 156
   },
   {
+    "uuid": "4499c620-8843-48f8-a4a4-ccf57d8decff",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/92252069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-27%2F387122792-44100-2-7eaf163bf6bea.mp3",
+    "published": "2024-09-27T00:12:33Z",
+    "duration": 9152,
+    "title": "Glitch Gamecast Ep. 182 - Um vulcão chamado Yōtei",
+    "playingStatus": 3,
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 182
+  },
+  {
     "uuid": "715a9420-e791-47e9-a5e6-697d745a24b3",
     "url": "https://anchor.fm/s/39e309d4/podcast/play/72193826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-16%2Fad25eaed-225a-f92b-77dc-e7deb3641851.mp3",
     "published": "2023-06-16T00:24:46Z",
@@ -2957,6 +3067,17 @@
     "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
     "episodeSeason": 1,
     "episodeNumber": 158
+  },
+  {
+    "uuid": "8397bdb7-6881-478d-b721-a110f18da1d3",
+    "url": "https://anchor.fm/s/39e309d4/podcast/play/92557874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-4%2F387504531-44100-2-dc04d0a7d77c7.mp3",
+    "published": "2024-10-04T00:03:12Z",
+    "duration": 6738,
+    "title": "Glitch Gamecast Ep. 183 - Temos Persona!",
+    "playingStatus": 3,
+    "podcastUuid": "fb744de0-ebeb-0138-e7fa-0acc26574db2",
+    "episodeSeason": 1,
+    "episodeNumber": 183
   },
   {
     "uuid": "dbc7c286-c598-4a37-9e0f-98b7f2c1ef84",
@@ -3151,6 +3272,17 @@
     "published": "2022-12-19T11:00:00Z",
     "duration": 1656,
     "title": "“Serverless” Databases",
+    "playingStatus": 3,
+    "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
+    "episodeSeason": 0,
+    "episodeNumber": 0
+  },
+  {
+    "uuid": "68a3cffd-55f2-4c98-91aa-ad54eba03e61",
+    "url": "https://traffic.libsyn.com/secure/syntax/Syntax_-_822.mp3?dest-id=532671",
+    "published": "2024-09-16T11:00:00Z",
+    "duration": 1213,
+    "title": "822: Receipt Printer with JavaScript",
     "playingStatus": 3,
     "podcastUuid": "fe30f8e0-3da9-0135-9028-63f4b61a9224",
     "episodeSeason": 0,
