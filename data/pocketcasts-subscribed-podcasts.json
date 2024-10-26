@@ -1,6 +1,12 @@
 {
   "podcasts": [
     {
+      "uuid": "021de9b0-f908-0138-414e-0acc26574db2",
+      "title": "Expresso da Manhã",
+      "author": "Paulo Baldaia",
+      "url": "http://expresso.pt/podcasts/expresso-da-manha"
+    },
+    {
       "uuid": "077db710-df59-0138-e7b8-0acc26574db2",
       "title": "Podcast Cruzamento",
       "author": "André Correia e Daniel Guedelha",
@@ -16,7 +22,7 @@
       "uuid": "0d53a7a0-8041-0138-ee14-0acc26574db2",
       "title": "CryptoCafe",
       "author": "CryptoCafe",
-      "url": "https://www.cryptocafe.pt/"
+      "url": "https://www.cryptocafe.pt/series/default-podcast/"
     },
     {
       "uuid": "18c8f860-d3c7-0135-9e60-5bb073f92b78",
@@ -297,8 +303,14 @@
     {
       "uuid": "b6264df0-b4c5-0132-32ce-0b39892d38e0",
       "title": "Talk Python To Me",
-      "author": "Michael Kennedy (@mkennedy)",
+      "author": "Michael Kennedy",
       "url": "https://talkpython.fm/"
+    },
+    {
+      "uuid": "b9715c40-d8ed-013c-5d00-0acc26574db2",
+      "title": "Chave na mão",
+      "author": "Rita Neves",
+      "url": "https://expresso.pt/podcasts/chave-na-mao"
     },
     {
       "uuid": "b98216c0-7c5d-0134-9030-3327a14bcdba",
@@ -321,7 +333,7 @@
     {
       "uuid": "c0172780-38bc-0135-52fa-452518e2d253",
       "title": "Podcast Ubuntu Portugal",
-      "author": "Diogo Constantino & Tiago Carrondo",
+      "author": "Diogo Constantino, Tiago Carrondo e Miguel",
       "url": "https://podcastubuntuportugal.org/"
     },
     {
@@ -423,7 +435,7 @@
     {
       "uuid": "eed6bab0-be9c-013c-bedc-0e3de8a7ffb3",
       "title": "GeekHub",
-      "author": "Carlos Ferreira & Inês Ramalho",
+      "author": "Carlos Ferreira &amp; Inês Ramalho",
       "url": "https://geekhub.pt/"
     },
     {
